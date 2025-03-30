@@ -18,15 +18,6 @@ Mutant:
 ![image](https://github.com/user-attachments/assets/22eb5ac3-b650-45f8-a7ca-e5fbf8c7b499)
 
 
-Main feature implemented so far:
-1. All characters can attack, can receive damage and can die
-2. All characters have a health bar and only the main character(Paladin) has also a stamina bar
-3. The Paladin have a 3 attacks combo
-4. If the Paladin kills the Boss(Mutant) wins the game
-5. If the Paladin is defeated, you will receive a lose screen.
-6. There is a healthpack that fully heals the Paladin.
-7. The Mutant has 2 attacks that deals different damage.
-8. All The Islands, bridges and the healthpack were made in Blender
 
 Islands:
 
@@ -45,4 +36,14 @@ Healthpack:
 ![image](https://github.com/user-attachments/assets/bbf297ed-2c0e-4af5-ba30-81cd8ba8ad57)
 
 
+Main feature implemented so far:
+1. All characters can attack, can receive damage and can die
+2. All characters have a health bar and only the main character(Paladin) has also a stamina bar
+3. The Paladin have a 3 attacks combo
+4. If the Paladin kills the Boss(Mutant) wins the game
+5. If the Paladin is defeated, you will receive a lose screen.
+6. There is a healthpack that fully heals the Paladin.
+7. The Mutant has 2 attacks that deals different damage.
+8. All The Islands, bridges and the healthpack were made in Blender
+   
 There is a recording of the project in the "Recording" folder.
