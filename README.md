@@ -28,7 +28,7 @@ Main feature implemented so far:
 7. The Mutant has 2 attacks that deals different damage.
 8. All The Islands, bridges and the healthpack were made in Blender
 
-Island
+Islands:
 
 ![image](https://github.com/user-attachments/assets/ba742736-680e-4373-9d60-7d846e7d0509)
 
@@ -43,3 +43,6 @@ Bridge:
 Healthpack:
 
 ![image](https://github.com/user-attachments/assets/bbf297ed-2c0e-4af5-ba30-81cd8ba8ad57)
+
+
+There is a recording of the project in the "Recording" folder.
