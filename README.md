@@ -12,4 +12,8 @@ Three character model used:
 ![image](https://github.com/user-attachments/assets/22eb5ac3-b650-45f8-a7ca-e5fbf8c7b499)
 
 
-Main feature:
+Main feature implemented so far:
+1. arwesgaer
+2. dargesrts
+3. easrhgserhser
+4. sehser
