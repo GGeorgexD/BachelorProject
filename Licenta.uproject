@@ -1,0 +1,21 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{E49F507C-4441-CBE2-D99B-03A92F2C5F9E}",
+	"Category": "",
+	"Description": "",
+	"Plugins": [
+		{
+			"Name": "ModelingToolsEditorMode",
+			"Enabled": true
+		},
+		{
+			"Name": "Bridge",
+			"Enabled": true,
+			"SupportedTargetPlatforms": [
+				"Win64",
+				"Mac",
+				"Linux"
+			]
+		}
+	]
+}

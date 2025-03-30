@@ -1,0 +1,1580 @@
+﻿Log file open, 03/30/25 20:39:30
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogProfilingDebugging: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogWindows: Started CrashReportClient (pid=5152)
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Licenta
+LogCore: UnrealTraceServer: Trace store launch successful
+LogCsvProfiler: Display: Metadata set : platform="Windows"
+LogCsvProfiler: Display: Metadata set : config="Development"
+LogCsvProfiler: Display: Metadata set : buildversion="++UE5+Release-5.0-CL-20280985"
+LogCsvProfiler: Display: Metadata set : engineversion="5.0.2-20280985+++UE5+Release-5.0"
+LogCsvProfiler: Display: Metadata set : commandline="" C:/Facultate/Licenta/Licenta.uproject /Game/Licenta -game -PIEVIACONSOLE -Multiprocess GameUserSettingsINI=PIEGameUserSettings0 -MultiprocessSaveConfig -forcepassthrough -messaging -SessionName="Play in Standalone Game" -windowed -ResX=1280 -ResY=720""
+LogCsvProfiler: Display: Metadata set : os="Windows 10 (22H2) [10.0.19045.5679] "
+LogCsvProfiler: Display: Metadata set : cpu="AuthenticAMD|AMD Ryzen 7 1700 Eight-Core Processor"
+LogCsvProfiler: Display: Metadata set : pgoenabled="0"
+LogCsvProfiler: Display: Metadata set : loginid="552572e148c6e571e26e2fb2407c79d3"
+LogCsvProfiler: Display: Metadata set : llm="0"
+LogPlatformFile: Not using cached read wrapper
+LogStats: Stats thread started at 0.310599
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +2:00, Platform Override: ''
+LogInit: Session CrashGUID >====================================================
+         Session CrashGUID >   UECC-Windows-328515234B7CF645FE3B9FB39822C569
+         Session CrashGUID >====================================================
+LogConfig: Display: Loading VulkanPC ini files took 0.04 seconds
+LogConfig: Display: Loading Android ini files took 0.05 seconds
+LogConfig: Display: Loading Mac ini files took 0.05 seconds
+LogConfig: Display: Loading IOS ini files took 0.05 seconds
+LogConfig: Display: Loading HoloLens ini files took 0.05 seconds
+LogConfig: Display: Loading Unix ini files took 0.06 seconds
+LogConfig: Display: Loading TVOS ini files took 0.06 seconds
+LogConfig: Display: Loading Windows ini files took 0.06 seconds
+LogConfig: Display: Loading LinuxArm64 ini files took 0.06 seconds
+LogConfig: Display: Loading Linux ini files took 0.07 seconds
+LogPluginManager: Mounting Engine plugin Bridge
+LogPluginManager: Mounting Engine plugin FastBuildController
+LogPluginManager: Mounting Engine plugin MeshPainting
+LogPluginManager: Mounting Engine plugin XGEController
+LogPluginManager: Mounting Engine plugin Paper2D
+LogPluginManager: Mounting Engine plugin AnimationModifierLibrary
+LogPluginManager: Mounting Engine plugin AISupport
+LogPluginManager: Mounting Engine plugin IKRig
+LogPluginManager: Mounting Engine plugin BlendSpaceMotionAnalysis
+LogPluginManager: Mounting Engine plugin ControlRig
+LogPluginManager: Mounting Engine plugin ControlRigSpline
+LogPluginManager: Mounting Engine plugin EnvironmentQueryEditor
+LogPluginManager: Mounting Engine plugin CameraShakePreviewer
+LogPluginManager: Mounting Engine plugin GameplayCameras
+LogPluginManager: Mounting Engine plugin AnimationSharing
+LogPluginManager: Mounting Engine plugin CLionSourceCodeAccess
+LogPluginManager: Mounting Engine plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting Engine plugin GitSourceControl
+LogPluginManager: Mounting Engine plugin NullSourceCodeAccess
+LogPluginManager: Mounting Engine plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting Engine plugin PerforceSourceControl
+LogPluginManager: Mounting Engine plugin PixWinPlugin
+LogPluginManager: Mounting Engine plugin PluginUtils
+LogPluginManager: Mounting Engine plugin PlasticSourceControl
+LogPluginManager: Mounting Engine plugin PropertyAccessNode
+LogPluginManager: Mounting Engine plugin RiderSourceCodeAccess
+LogPluginManager: Mounting Engine plugin SubversionSourceControl
+LogPluginManager: Mounting Engine plugin TextureFormatOodle
+LogPluginManager: Mounting Engine plugin TraceDataFilters
+LogPluginManager: Mounting Engine plugin UObjectPlugin
+LogPluginManager: Mounting Engine plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin AssetManagerEditor
+LogPluginManager: Mounting Engine plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting Engine plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin CryptoKeys
+LogPluginManager: Mounting Engine plugin OodleNetwork
+LogPluginManager: Mounting Engine plugin CurveEditorTools
+LogPluginManager: Mounting Engine plugin DataValidation
+LogPluginManager: Mounting Engine plugin EditorDebugTools
+LogPluginManager: Mounting Engine plugin FacialAnimation
+LogPluginManager: Mounting Engine plugin EditorScriptingUtilities
+LogPluginManager: Mounting Engine plugin GeometryMode
+LogPluginManager: Mounting Engine plugin GameplayTagsEditor
+LogPluginManager: Mounting Engine plugin MaterialAnalyzer
+LogPluginManager: Mounting Engine plugin MacGraphicsSwitching
+LogPluginManager: Mounting Engine plugin ModelingToolsEditorMode
+LogPluginManager: Mounting Engine plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting Engine plugin PluginBrowser
+LogPluginManager: Mounting Engine plugin SequencerAnimTools
+LogPluginManager: Mounting Engine plugin WorldPartitionHLODUtilities
+LogPluginManager: Mounting Engine plugin SpeedTreeImporter
+LogPluginManager: Mounting Engine plugin StylusInput
+LogPluginManager: Mounting Engine plugin DatasmithContent
+LogPluginManager: Mounting Engine plugin VariantManagerContent
+LogPluginManager: Mounting Engine plugin AutomationUtils
+LogPluginManager: Mounting Engine plugin BackChannel
+LogPluginManager: Mounting Engine plugin ChaosCloth
+LogPluginManager: Mounting Engine plugin ChaosClothEditor
+LogPluginManager: Mounting Engine plugin ChaosEditor
+LogPluginManager: Mounting Engine plugin ChaosNiagara
+LogPluginManager: Mounting Engine plugin CharacterAI
+LogPluginManager: Mounting Engine plugin ChaosSolverPlugin
+LogPluginManager: Mounting Engine plugin FullBodyIK
+LogPluginManager: Mounting Engine plugin GeometryCollectionPlugin
+LogPluginManager: Mounting Engine plugin GeometryFlow
+LogPluginManager: Mounting Engine plugin MeshLODToolset
+LogPluginManager: Mounting Engine plugin MeshModelingToolsetExp
+LogPluginManager: Mounting Engine plugin OpenImageDenoise
+LogPluginManager: Mounting Engine plugin PlanarCut
+LogPluginManager: Mounting Engine plugin PlatformCrypto
+LogPluginManager: Mounting Engine plugin ProxyLODPlugin
+LogPluginManager: Mounting Engine plugin PythonScriptPlugin
+LogPluginManager: Mounting Engine plugin SkeletalReduction
+LogPluginManager: Mounting Engine plugin Niagara
+LogPluginManager: Mounting Engine plugin AlembicImporter
+LogPluginManager: Mounting Engine plugin AndroidMedia
+LogPluginManager: Mounting Engine plugin AvfMedia
+LogPluginManager: Mounting Engine plugin ImgMedia
+LogPluginManager: Mounting Engine plugin MediaCompositing
+LogPluginManager: Mounting Engine plugin UdpMessaging
+LogPluginManager: Mounting Engine plugin TcpMessaging
+LogPluginManager: Mounting Engine plugin MediaPlayerEditor
+LogPluginManager: Mounting Engine plugin WebMMedia
+LogPluginManager: Mounting Engine plugin WmfMedia
+LogPluginManager: Mounting Engine plugin ActorSequence
+LogPluginManager: Mounting Engine plugin LevelSequenceEditor
+LogPluginManager: Mounting Engine plugin MatineeToLevelSequence
+LogPluginManager: Mounting Engine plugin TemplateSequence
+LogPluginManager: Mounting Engine plugin SequencerScripting
+LogPluginManager: Mounting Engine plugin OnlineBase
+LogPluginManager: Mounting Engine plugin OnlineSubsystem
+LogPluginManager: Mounting Engine plugin LauncherChunkInstaller
+LogPluginManager: Mounting Engine plugin OnlineSubsystemNull
+LogPluginManager: Mounting Engine plugin ActorLayerUtilities
+LogPluginManager: Mounting Engine plugin OnlineSubsystemUtils
+LogPluginManager: Mounting Engine plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin AndroidFileServer
+LogPluginManager: Mounting Engine plugin AndroidMoviePlayer
+LogPluginManager: Mounting Engine plugin AndroidPermission
+LogPluginManager: Mounting Engine plugin AppleImageUtils
+LogPluginManager: Mounting Engine plugin AppleMoviePlayer
+LogPluginManager: Mounting Engine plugin AssetTags
+LogPluginManager: Mounting Engine plugin AudioCapture
+LogPluginManager: Mounting Engine plugin ArchVisCharacter
+LogPluginManager: Mounting Engine plugin AudioSynesthesia
+LogPluginManager: Mounting Engine plugin CableComponent
+LogPluginManager: Mounting Engine plugin ChunkDownloader
+LogPluginManager: Mounting Engine plugin CustomMeshComponent
+LogPluginManager: Mounting Engine plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin GeometryCache
+LogPluginManager: Mounting Engine plugin GeometryProcessing
+LogPluginManager: Mounting Engine plugin GoogleCloudMessaging
+LogPluginManager: Mounting Engine plugin GooglePAD
+LogPluginManager: Mounting Engine plugin HairStrands
+LogPluginManager: Mounting Engine plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin LocationServicesBPLibrary
+LogPluginManager: Mounting Engine plugin MeshModelingToolset
+LogPluginManager: Mounting Engine plugin MobilePatchingUtils
+LogPluginManager: Mounting Engine plugin ProceduralMeshComponent
+LogPluginManager: Mounting Engine plugin PropertyAccessEditor
+LogPluginManager: Mounting Engine plugin ResonanceAudio
+LogPluginManager: Mounting Engine plugin RuntimePhysXCooking
+LogPluginManager: Mounting Engine plugin SignificanceManager
+LogPluginManager: Mounting Engine plugin SoundFields
+LogPluginManager: Mounting Engine plugin Synthesis
+LogPluginManager: Mounting Engine plugin WebMMoviePlayer
+LogPluginManager: Mounting Engine plugin WindowsDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin WindowsMoviePlayer
+LogPluginManager: Mounting Engine plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting Engine plugin InterchangeEditor
+LogPluginManager: Mounting Engine plugin Interchange
+LogPluginManager: Mounting Engine plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting Engine plugin OnlineSubsystemIOS
+LogPluginManager: Mounting Engine plugin OnlineServices
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Bridge/Content/' mounted to '/Bridge/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/2D/Paper2D/Content/' mounted to '/Paper2D/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/IKRig/Content/' mounted to '/IKRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRig/Content/' mounted to '/ControlRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRigSpline/Content/' mounted to '/ControlRigSpline/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Developer/AnimationSharing/Content/' mounted to '/AnimationSharing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/GeometryMode/Content/' mounted to '/GeometryMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/ModelingToolsEditorMode/Content/' mounted to '/ModelingToolsEditorMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/SpeedTreeImporter/Content/' mounted to '/SpeedTreeImporter/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Enterprise/DatasmithContent/Content/' mounted to '/DatasmithContent/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosClothEditor/Content/' mounted to '/ChaosClothEditor/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosNiagara/Content/' mounted to '/ChaosNiagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosSolverPlugin/Content/' mounted to '/ChaosSolverPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/FullBodyIK/Content/' mounted to '/FullBodyIK/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryCollectionPlugin/Content/' mounted to '/GeometryCollectionPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryFlow/Content/' mounted to '/GeometryFlow/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshLODToolset/Content/' mounted to '/MeshLODToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshModelingToolsetExp/Content/' mounted to '/MeshModelingToolsetExp/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/PythonScriptPlugin/Content/' mounted to '/PythonScriptPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/FX/Niagara/Content/' mounted to '/Niagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Media/MediaCompositing/Content/' mounted to '/MediaCompositing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/MovieScene/SequencerScripting/Content/' mounted to '/SequencerScripting/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/AudioSynesthesia/Content/' mounted to '/AudioSynesthesia/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/GeometryProcessing/Content/' mounted to '/GeometryProcessing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/HairStrands/Content/' mounted to '/HairStrands/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/MeshModelingToolset/Content/' mounted to '/MeshModelingToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/ResonanceAudio/Content/' mounted to '/ResonanceAudio/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/Synthesis/Content/' mounted to '/Synthesis/'
+SourceControl: Source control is disabled
+SourceControl: Source control is disabled
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: Created online subsystem instance for: NULL
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE5+Release-5.0-CL-20280985
+LogInit: Engine Version: 5.0.2-20280985+++UE5+Release-5.0
+LogInit: Compatible Engine Version: 5.0.0-19505902+++UE5+Release-5.0
+LogInit: Net CL: 19505902
+LogInit: OS: Windows 10 (22H2) [10.0.19045.5679] (), CPU: AMD Ryzen 7 1700 Eight-Core Processor          , GPU: NVIDIA GeForce GTX 1070
+LogInit: Compiled (64-bit): May 20 2022 15:42:17
+LogInit: Compiled with Visual C++: 19.29.30138.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE5+Release-5.0
+LogInit: Command Line:  /Game/Licenta -game -PIEVIACONSOLE -Multiprocess GameUserSettingsINI=PIEGameUserSettings0 -MultiprocessSaveConfig -forcepassthrough -messaging -SessionName="Play in Standalone Game" -windowed -ResX=1280 -ResY=720
+LogInit: Base Directory: E:/Epic Games/UE_5.0/Engine/Binaries/Win64/
+LogInit: Allocator: Mimalloc
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 34
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 20
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 59
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 3
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   UE5-Main (697DD581-E64F-41AB-AA4A-51ECBEB7B628): 59
+LogDevObjectVersion:   UE5-Release (D89B5E42-24BD-4D46-8412-ACA8DF641779): 36
+LogDevObjectVersion:   UE5-PrivateFrosty (59DA5D52-1232-4948-B878-597870B8E98B): 8
+LogDevObjectVersion:   UE5-Dev-Cooker (26075A32-730F-4708-88E9-8C32F1599D05): 0
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogDevObjectVersion:   UE5-Dev-LWCRendering (30D58BE3-95EA-4282-A6E3-B159D8EBB06A): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: CVar [[con.DebugLateDefault:1]] deferred - dummy variable created
+LogConfig: CVar [[con.DebugLateCheat:1]] deferred - dummy variable created
+LogConfig: CVar [[r.DetectAndWarnOfBadDrivers:0]] deferred - dummy variable created
+LogConfig: CVar [[LogNamedEventFilters:Frame *]] deferred - dummy variable created
+LogConfig: CVar [[framepro.ScopeMinTimeMicroseconds:10]] deferred - dummy variable created
+LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
+[2025.03.30-17.39.30:630][  0]LogConfig: CVar [[con.DebugLateDefault:1]] deferred - dummy variable created
+[2025.03.30-17.39.30:630][  0]LogConfig: CVar [[con.DebugLateCheat:1]] deferred - dummy variable created
+[2025.03.30-17.39.30:630][  0]LogConfig: CVar [[r.DetectAndWarnOfBadDrivers:0]] deferred - dummy variable created
+[2025.03.30-17.39.30:630][  0]LogConfig: CVar [[LogNamedEventFilters:Frame *]] deferred - dummy variable created
+[2025.03.30-17.39.30:630][  0]LogConfig: CVar [[framepro.ScopeMinTimeMicroseconds:10]] deferred - dummy variable created
+[2025.03.30-17.39.30:630][  0]LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
+[2025.03.30-17.39.30:631][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [Engine]
+[2025.03.30-17.39.30:631][  0]LogConfig: CVar [[VisualizeCalibrationColorMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationColor.PPM_DefaultCalibrationColor]] deferred - dummy variable created
+[2025.03.30-17.39.30:631][  0]LogConfig: CVar [[VisualizeCalibrationGrayscaleMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale.PPM_DefaultCalibrationGrayscale]] deferred - dummy variable created
+[2025.03.30-17.39.30:631][  0]LogConfig: CVar [[MaxSkinBones:(Default=65536,PerPlatform=(("Mobile", 256)))]] deferred - dummy variable created
+[2025.03.30-17.39.30:631][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [Engine]
+[2025.03.30-17.39.30:631][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [Engine]
+[2025.03.30-17.39.30:631][  0]LogConfig: CVar [[s.MaxPackageSummarySize:16384]] deferred - dummy variable created
+[2025.03.30-17.39.30:631][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__SoundBase]] deferred - dummy variable created
+[2025.03.30-17.39.30:631][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__MaterialInterface]] deferred - dummy variable created
+[2025.03.30-17.39.30:631][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__DeviceProfileManager]] deferred - dummy variable created
+[2025.03.30-17.39.30:631][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [Engine]
+[2025.03.30-17.39.30:631][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [Engine]
+[2025.03.30-17.39.30:631][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Average",ToolTip="Simulates average internet conditions")]] deferred - dummy variable created
+[2025.03.30-17.39.30:631][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Bad",ToolTip="Simulates laggy internet conditions")]] deferred - dummy variable created
+[2025.03.30-17.39.30:631][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [Engine]
+[2025.03.30-17.39.30:631][  0]LogConfig: CVar [[DefaultPVRTCQuality:1]] deferred - dummy variable created
+[2025.03.30-17.39.30:631][  0]LogConfig: CVar [[DefaultASTCQualityBySpeed:1]] deferred - dummy variable created
+[2025.03.30-17.39.30:631][  0]LogConfig: CVar [[DefaultASTCQualityBySize:3]] deferred - dummy variable created
+[2025.03.30-17.39.30:631][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:WidgetBlueprint]] deferred - dummy variable created
+[2025.03.30-17.39.30:631][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GroupActor]] deferred - dummy variable created
+[2025.03.30-17.39.30:631][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MetaData]] deferred - dummy variable created
+[2025.03.30-17.39.30:631][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ObjectRedirector]] deferred - dummy variable created
+[2025.03.30-17.39.30:631][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NavMeshRenderingComponent]] deferred - dummy variable created
+[2025.03.30-17.39.30:631][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ReflectionCaptureComponent]] deferred - dummy variable created
+[2025.03.30-17.39.30:631][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:TextRenderComponent]] deferred - dummy variable created
+[2025.03.30-17.39.30:631][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:Font]] deferred - dummy variable created
+[2025.03.30-17.39.30:631][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:InterpCurveEdSetup]] deferred - dummy variable created
+[2025.03.30-17.39.30:631][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MaterialExpression]] deferred - dummy variable created
+[2025.03.30-17.39.30:631][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MatineeActorCameraAnim]] deferred - dummy variable created
+[2025.03.30-17.39.30:631][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraEmitter]] deferred - dummy variable created
+[2025.03.30-17.39.30:631][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraScript]] deferred - dummy variable created
+[2025.03.30-17.39.30:631][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleEmitter]] deferred - dummy variable created
+[2025.03.30-17.39.30:631][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleLODLevel]] deferred - dummy variable created
+[2025.03.30-17.39.30:631][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleModule]] deferred - dummy variable created
+[2025.03.30-17.39.30:631][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SubUVAnimation]] deferred - dummy variable created
+[2025.03.30-17.39.30:631][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SoundNode]] deferred - dummy variable created
+[2025.03.30-17.39.30:631][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GameplayEffectUIData]] deferred - dummy variable created
+[2025.03.30-17.39.30:631][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:WidgetBlueprint]] deferred - dummy variable created
+[2025.03.30-17.39.30:631][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:GroupActor]] deferred - dummy variable created
+[2025.03.30-17.39.30:631][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MetaData]] deferred - dummy variable created
+[2025.03.30-17.39.30:631][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:ObjectRedirector]] deferred - dummy variable created
+[2025.03.30-17.39.30:631][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:InterpCurveEdSetup]] deferred - dummy variable created
+[2025.03.30-17.39.30:631][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MatineeActorCameraAnim]] deferred - dummy variable created
+[2025.03.30-17.39.30:631][  0]LogConfig: CVar [[VersionedIntRValues:r.AllowStaticLighting]] deferred - dummy variable created
+[2025.03.30-17.39.30:631][  0]LogConfig: CVar [[VersionedIntRValues:r.GBuffer]] deferred - dummy variable created
+[2025.03.30-17.39.30:631][  0]LogConfig: CVar [[VersionedIntRValues:r.VelocityOutputPass]] deferred - dummy variable created
+[2025.03.30-17.39.30:631][  0]LogConfig: CVar [[VersionedIntRValues:r.SelectiveBasePassOutputs]] deferred - dummy variable created
+[2025.03.30-17.39.30:631][  0]LogConfig: CVar [[VersionedIntRValues:r.DBuffer]] deferred - dummy variable created
+[2025.03.30-17.39.30:631][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Symbols]] deferred - dummy variable created
+[2025.03.30-17.39.30:631][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.GenerateSymbols]] deferred - dummy variable created
+[2025.03.30-17.39.30:631][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.WriteSymbols]] deferred - dummy variable created
+[2025.03.30-17.39.30:631][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.AllowUniqueSymbols]] deferred - dummy variable created
+[2025.03.30-17.39.30:631][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.ExtraData]] deferred - dummy variable created
+[2025.03.30-17.39.30:631][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Optimize]] deferred - dummy variable created
+[2025.03.30-17.39.30:631][  0]LogConfig: CVar [[VersionedIntRValues:r.CompileShadersForDevelopment]] deferred - dummy variable created
+[2025.03.30-17.39.30:631][  0]LogConfig: CVar [[VersionedIntRValues:r.MobileHDR]] deferred - dummy variable created
+[2025.03.30-17.39.30:631][  0]LogConfig: CVar [[VersionedIntRValues:r.UsePreExposure]] deferred - dummy variable created
+[2025.03.30-17.39.30:658][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [Scalability]
+[2025.03.30-17.39.30:659][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [Scalability]
+[2025.03.30-17.39.30:659][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [Scalability]
+[2025.03.30-17.39.30:659][  0]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@3] File [Scalability]
+[2025.03.30-17.39.30:659][  0]LogConfig: Applying CVar settings from Section [ReflectionQuality@3] File [Scalability]
+[2025.03.30-17.39.30:659][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [Scalability]
+[2025.03.30-17.39.30:659][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [Scalability]
+[2025.03.30-17.39.30:659][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [Scalability]
+[2025.03.30-17.39.30:659][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [Scalability]
+[2025.03.30-17.39.30:659][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [Scalability]
+[2025.03.30-17.39.30:659][  0]LogConfig: CVar [[r.HairStrands.Interpolation.UseSingleGuide:0]] deferred - dummy variable created
+[2025.03.30-17.39.30:723][  0]LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+[2025.03.30-17.39.30:726][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2025.03.30-17.39.30:726][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_1
+[2025.03.30-17.39.30:726][  0]LogD3D11RHI: D3D11 adapters:
+[2025.03.30-17.39.30:726][  0]LogD3D11RHI: Testing D3D11 Adapter 0:
+[2025.03.30-17.39.30:726][  0]LogD3D11RHI:     Description : NVIDIA GeForce GTX 1070
+[2025.03.30-17.39.30:726][  0]LogD3D11RHI:     VendorId    : 10de
+[2025.03.30-17.39.30:726][  0]LogD3D11RHI:     DeviceId    : 1b81
+[2025.03.30-17.39.30:726][  0]LogD3D11RHI:     SubSysId    : 143519da
+[2025.03.30-17.39.30:726][  0]LogD3D11RHI:     Revision    : 00a1
+[2025.03.30-17.39.30:726][  0]LogD3D11RHI:     DedicatedVideoMemory : 8458862592 bytes
+[2025.03.30-17.39.30:726][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2025.03.30-17.39.30:726][  0]LogD3D11RHI:     SharedSystemMemory : 8299384832 bytes
+[2025.03.30-17.39.30:726][  0]LogD3D11RHI:     AdapterLuid : 0 60816
+[2025.03.30-17.39.30:935][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1070' (Feature Level 11_1)
+[2025.03.30-17.39.30:935][  0]LogD3D11RHI:       8067/0/7914 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2025.03.30-17.39.30:935][  0]LogD3D11RHI: Testing D3D11 Adapter 1:
+[2025.03.30-17.39.30:935][  0]LogD3D11RHI:     Description : Microsoft Basic Render Driver
+[2025.03.30-17.39.30:935][  0]LogD3D11RHI:     VendorId    : 1414
+[2025.03.30-17.39.30:935][  0]LogD3D11RHI:     DeviceId    : 008c
+[2025.03.30-17.39.30:935][  0]LogD3D11RHI:     SubSysId    : 0000
+[2025.03.30-17.39.30:935][  0]LogD3D11RHI:     Revision    : 0000
+[2025.03.30-17.39.30:935][  0]LogD3D11RHI:     DedicatedVideoMemory : 0 bytes
+[2025.03.30-17.39.30:935][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2025.03.30-17.39.30:935][  0]LogD3D11RHI:     SharedSystemMemory : 8299384832 bytes
+[2025.03.30-17.39.30:935][  0]LogD3D11RHI:     AdapterLuid : 0 64074
+[2025.03.30-17.39.30:938][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_1)
+[2025.03.30-17.39.30:938][  0]LogD3D11RHI:       0/0/7914 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2025.03.30-17.39.30:938][  0]LogD3D11RHI: Chosen D3D11 Adapter:
+[2025.03.30-17.39.30:938][  0]LogD3D11RHI:     Description : NVIDIA GeForce GTX 1070
+[2025.03.30-17.39.30:938][  0]LogD3D11RHI:     VendorId    : 10de
+[2025.03.30-17.39.30:938][  0]LogD3D11RHI:     DeviceId    : 1b81
+[2025.03.30-17.39.30:938][  0]LogD3D11RHI:     SubSysId    : 143519da
+[2025.03.30-17.39.30:938][  0]LogD3D11RHI:     Revision    : 00a1
+[2025.03.30-17.39.30:938][  0]LogD3D11RHI:     DedicatedVideoMemory : 8458862592 bytes
+[2025.03.30-17.39.30:938][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2025.03.30-17.39.30:938][  0]LogD3D11RHI:     SharedSystemMemory : 8299384832 bytes
+[2025.03.30-17.39.30:938][  0]LogD3D11RHI:     AdapterLuid : 0 60816
+[2025.03.30-17.39.30:938][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2025.03.30-17.39.30:938][  0]LogDeviceProfileManager: Applying CVar settings loaded from the selected device profile: [WindowsEditor]
+[2025.03.30-17.39.30:938][  0]LogHAL: Display: Platform has ~ 16 GB [16598769664 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2025.03.30-17.39.30:938][  0]LogDeviceProfileManager: Going up to parent DeviceProfile [Windows]
+[2025.03.30-17.39.30:938][  0]LogDeviceProfileManager: Going up to parent DeviceProfile []
+[2025.03.30-17.39.30:938][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2025.03.30-17.39.30:939][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [Engine]
+[2025.03.30-17.39.30:939][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Facultate/Licenta/Saved/Config/WindowsEditor/Editor.ini]
+[2025.03.30-17.39.30:939][  0]LogInit: Computer: DESKTOP-7D65VCS
+[2025.03.30-17.39.30:939][  0]LogInit: User: georg
+[2025.03.30-17.39.30:939][  0]LogInit: CPU Page size=4096, Cores=8
+[2025.03.30-17.39.30:939][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2025.03.30-17.39.30:939][  0]LogMemory: Memory total: Physical=15.5GB (16GB approx)
+[2025.03.30-17.39.30:939][  0]LogMemory: Platform Memory Stats for WindowsEditor
+[2025.03.30-17.39.30:939][  0]LogMemory: Process Physical Memory: 271.02 MB used, 283.71 MB peak
+[2025.03.30-17.39.30:939][  0]LogMemory: Process Virtual Memory: 246.49 MB used, 250.52 MB peak
+[2025.03.30-17.39.30:939][  0]LogMemory: Physical Memory: 8125.81 MB used,  7704.01 MB free, 15829.82 MB total
+[2025.03.30-17.39.30:939][  0]LogMemory: Virtual Memory: 13013.00 MB used,  9728.82 MB free, 22741.82 MB total
+[2025.03.30-17.39.30:939][  0]LogCsvProfiler: Display: Metadata set : extradevelopmentmemorymb="0"
+[2025.03.30-17.39.30:946][  0]LogWindows: WindowsPlatformFeatures enabled
+[2025.03.30-17.39.30:965][  0]LogInit: Physics initialised using underlying interface: Chaos
+[2025.03.30-17.39.30:965][  0]LogInit: Using OS detected language (en-US).
+[2025.03.30-17.39.30:965][  0]LogInit: Using OS detected locale (en-US).
+[2025.03.30-17.39.30:968][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so 'en' will be used for the language.
+[2025.03.30-17.39.31:166][  0]LogWindowsTextInputMethodSystem: Available input methods:
+[2025.03.30-17.39.31:166][  0]LogWindowsTextInputMethodSystem:   - English (United States) - (Keyboard).
+[2025.03.30-17.39.31:166][  0]LogWindowsTextInputMethodSystem: Activated input method: English (United States) - (Keyboard).
+[2025.03.30-17.39.31:218][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2025.03.30-17.39.31:218][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2025.03.30-17.39.31:247][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2025.03.30-17.39.31:247][  0]LogD3D11RHI:     GPU DeviceId: 0x1b81 (for the marketing name, search the web for "GPU Device Id")
+[2025.03.30-17.39.31:247][  0]LogWindows: Attached monitors:
+[2025.03.30-17.39.31:247][  0]LogWindows:     resolution: 1920x1080, work area: (0, 40) -> (1920, 1080), device: '\\.\DISPLAY1' [PRIMARY]
+[2025.03.30-17.39.31:247][  0]LogWindows: Found 1 attached monitors.
+[2025.03.30-17.39.31:247][  0]LogWindows: EnumDisplayDevices:
+[2025.03.30-17.39.31:247][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1070' (P:1 D:1), name: '\\.\DISPLAY1'
+[2025.03.30-17.39.31:247][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1070' (P:0 D:0), name: '\\.\DISPLAY2'
+[2025.03.30-17.39.31:247][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1070' (P:0 D:0), name: '\\.\DISPLAY3'
+[2025.03.30-17.39.31:248][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1070' (P:0 D:0), name: '\\.\DISPLAY4'
+[2025.03.30-17.39.31:248][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2025.03.30-17.39.31:248][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1070
+[2025.03.30-17.39.31:248][  0]LogD3D11RHI:   Driver Version: 572.83 (internal:32.0.15.7283, unified:572.83)
+[2025.03.30-17.39.31:248][  0]LogD3D11RHI:      Driver Date: 3-14-2025
+[2025.03.30-17.39.31:248][  0]LogRHI: Texture pool is 5646 MB (70% of 8067 MB)
+[2025.03.30-17.39.31:248][  0]LogD3D11RHI: Creating D3DDevice using adapter:
+[2025.03.30-17.39.31:248][  0]LogD3D11RHI:     Description : NVIDIA GeForce GTX 1070
+[2025.03.30-17.39.31:248][  0]LogD3D11RHI:     VendorId    : 10de
+[2025.03.30-17.39.31:248][  0]LogD3D11RHI:     DeviceId    : 1b81
+[2025.03.30-17.39.31:248][  0]LogD3D11RHI:     SubSysId    : 143519da
+[2025.03.30-17.39.31:248][  0]LogD3D11RHI:     Revision    : 00a1
+[2025.03.30-17.39.31:248][  0]LogD3D11RHI:     DedicatedVideoMemory : 8458862592 bytes
+[2025.03.30-17.39.31:248][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2025.03.30-17.39.31:248][  0]LogD3D11RHI:     SharedSystemMemory : 8299384832 bytes
+[2025.03.30-17.39.31:248][  0]LogD3D11RHI:     AdapterLuid : 0 60816
+[2025.03.30-17.39.31:403][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2025.03.30-17.39.31:403][  0]LogD3D11RHI: Async texture creation enabled
+[2025.03.30-17.39.31:403][  0]LogD3D11RHI: D3D11_MAP_WRITE_NO_OVERWRITE for dynamic buffer SRVs is supported
+[2025.03.30-17.39.31:403][  0]LogD3D11RHI: Array index from any shader is supported
+[2025.03.30-17.39.31:430][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2025.03.30-17.39.31:431][  0]LogRHI: GeForceNow SDK initialized: 0
+[2025.03.30-17.39.31:437][  0]LogTurnkeySupport: Running Turnkey SDK detection: ' -ScriptsForProject="C:/Facultate/Licenta/Licenta.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="C:/Facultate/Licenta/Intermediate/TurnkeyReport_0.log" -log="C:/Facultate/Licenta/Intermediate/TurnkeyLog_0.log" -project="C:/Facultate/Licenta/Licenta.uproject"  -platform=all'
+[2025.03.30-17.39.31:437][  0]LogMonitoredProcess: Running Serialized UAT: [ cmd.exe /c ""E:/Epic Games/UE_5.0/Engine/Build/BatchFiles/RunUAT.bat"  -ScriptsForProject="C:/Facultate/Licenta/Licenta.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="C:/Facultate/Licenta/Intermediate/TurnkeyReport_0.log" -log="C:/Facultate/Licenta/Intermediate/TurnkeyLog_0.log" -project="C:/Facultate/Licenta/Licenta.uproject"  -platform=all" ]
+[2025.03.30-17.39.31:464][  0]LogTextureFormatETC2: Display: ETC2 Texture loading DLL: TextureConverter.dll
+[2025.03.30-17.39.31:472][  0]LogTextureFormatOodle: Display: Oodle Texture TFO init; latest sdk version = 2.9.5
+[2025.03.30-17.39.31:472][  0]LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.5.dll
+[2025.03.30-17.39.31:481][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2025.03.30-17.39.31:481][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsEditor'
+[2025.03.30-17.39.31:481][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2025.03.30-17.39.31:481][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2025.03.30-17.39.31:481][  0]LogTargetPlatformManager: Display: Building Assets For WindowsEditor
+[2025.03.30-17.39.31:492][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2025.03.30-17.39.31:495][  0]LogTargetPlatformManager: Unable to find audio format BINKA from hinted modules, loading all potential format modules to find it
+[2025.03.30-17.39.31:495][  0]LogTargetPlatformManager: Loaded format module AudioFormatADPCM
+[2025.03.30-17.39.31:495][  0]LogTargetPlatformManager:   ADPCM
+[2025.03.30-17.39.31:495][  0]LogTargetPlatformManager:   PCM
+[2025.03.30-17.39.31:498][  0]LogTargetPlatformManager: Loaded format module AudioFormatBink
+[2025.03.30-17.39.31:498][  0]LogTargetPlatformManager:   BINKA
+[2025.03.30-17.39.31:498][  0]LogTargetPlatformManager: Loaded format module AudioFormatOgg
+[2025.03.30-17.39.31:499][  0]LogTargetPlatformManager:   OGG
+[2025.03.30-17.39.31:499][  0]LogTargetPlatformManager: Loaded format module AudioFormatOpus
+[2025.03.30-17.39.31:499][  0]LogTargetPlatformManager:   OPUS
+[2025.03.30-17.39.31:547][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2025.03.30-17.39.31:547][  0]LogShaderCompilers: Display: Compiling shader autogen file: C:/Facultate/Licenta/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+[2025.03.30-17.39.31:547][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2025.03.30-17.39.31:547][  0]LogShaderCompilers: Display: Compiling shader autogen file: C:/Facultate/Licenta/Intermediate/ShaderAutogen/PCD3D_ES31/AutogenShaderHeaders.ush
+[2025.03.30-17.39.31:548][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2025.03.30-17.39.31:551][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/Facultate/Licenta/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2025.03.30-17.39.31:551][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchy Hierarchy.
+[2025.03.30-17.39.31:551][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file C:/Facultate/Licenta/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2025.03.30-17.39.31:551][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchy Hierarchy.
+[2025.03.30-17.39.31:572][  0]LogDerivedDataCache: Display: ../../../Engine/DerivedDataCache/Compressed.ddp: Opened pak cache for reading. (1096 MiB)
+[2025.03.30-17.39.31:572][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2025.03.30-17.39.31:572][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchy Hierarchy.
+[2025.03.30-17.39.31:582][  0]LogDerivedDataCache: Speed tests for C:/Users/georg/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2025.03.30-17.39.31:582][  0]LogDerivedDataCache: Display: Performance to C:/Users/georg/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.05ms. RandomReadSpeed=607.60MBs, RandomWriteSpeed=122.32MBs. Assigned SpeedClass 'Local'
+[2025.03.30-17.39.31:584][  0]LogDerivedDataCache: Using Local data cache path C:/Users/georg/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2025.03.30-17.39.31:584][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2025.03.30-17.39.31:584][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchy Hierarchy.
+[2025.03.30-17.39.31:594][  0]LogVirtualization: VirtualizationSystem name found in ini file: None
+[2025.03.30-17.39.31:594][  0]LogVirtualization: FNullVirtualizationSystem mounted, virtualization will be disabled
+[2025.03.30-17.39.31:594][  0]LogShaderCompilers: Guid format shader working directory is 26 characters bigger than the processId version (C:/Facultate/Licenta/Intermediate/Shaders/WorkingDirectory/4360/).
+[2025.03.30-17.39.31:595][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/georg/AppData/Local/Temp/UnrealShaderWorkingDir/5FDE669C4F88AE22825EA7B62EAC9FDD/'.
+[2025.03.30-17.39.31:595][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2025.03.30-17.39.31:595][  0]LogShaderCompilers: Display: Using Local Shader Compiler with 8 workers.
+[2025.03.30-17.39.33:083][  0]LogTurnkeySupport: Completed SDK detection: ExitCode = 0
+[2025.03.30-17.39.33:083][  0]LogSlate: Using FreeType 2.10.0
+[2025.03.30-17.39.33:084][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2025.03.30-17.39.33:112][  0]LogTurnkeySupport: Turnkey Platform: Android: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=r21a, MaxAllowed=r23a, Flags="Platform_InvalidHostPrerequisites", Error="Android Studio is not installed correctly.|Android SDK directory is not set correctly.")
+[2025.03.30-17.39.33:112][  0]LogTurnkeySupport: Turnkey Platform: IOS: (Status=Valid, Installed=1368.12.2.1, AutoSDK=, MinAllowed=1100.0.0.0, MaxAllowed=1399.0, Flags="InstalledSdk_ValidVersionExists")
+[2025.03.30-17.39.33:112][  0]LogTurnkeySupport: Turnkey Platform: Linux: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=v10_clang-5.0.0-centos7, MaxAllowed=v20_clang-13.0.1-centos7, Flags="Platform_ValidHostPrerequisites")
+[2025.03.30-17.39.33:112][  0]LogTurnkeySupport: Turnkey Platform: LinuxArm64: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=v10_clang-5.0.0-centos7, MaxAllowed=v20_clang-13.0.1-centos7, Flags="Platform_ValidHostPrerequisites")
+[2025.03.30-17.39.33:112][  0]LogTurnkeySupport: Turnkey Platform: Win64: (Status=Valid, Installed=10.0.19041.0, AutoSDK=, MinAllowed=10.0.00000.0, MaxAllowed=10.9.99999.0, Flags="InstalledSdk_ValidVersionExists")
+[2025.03.30-17.39.33:155][  0]LogInit: Using OS detected language (en-US).
+[2025.03.30-17.39.33:155][  0]LogInit: Using OS detected locale (en-US).
+[2025.03.30-17.39.33:155][  0]LogTextLocalizationManager: No localization for 'en-US' exists, so 'en' will be used for the language.
+[2025.03.30-17.39.33:155][  0]LogTextLocalizationManager: No localization for 'en-US' exists, so 'en' will be used for the locale.
+[2025.03.30-17.39.33:155][  0]LogSlate: FontCache flush requested. Reason: Culture for localization was changed
+[2025.03.30-17.39.33:155][  0]LogSlate: FontCache flush requested. Reason: Culture for localization was changed
+[2025.03.30-17.39.33:170][  0]LogAssetRegistry: FAssetRegistry took 0.0134 seconds to start up
+[2025.03.30-17.39.33:370][  0]LogPackageLocalizationCache: Processed 30 localized package path(s) for 1 prioritized culture(s) in 0.001398 seconds
+[2025.03.30-17.39.33:371][  0]LogSerialization: UsePackageTrailer: 'false'
+[2025.03.30-17.39.33:372][  0]LogTexture: Display: Texture Encode Speed: Final (cook).
+[2025.03.30-17.39.33:681][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2025.03.30-17.39.33:681][  0]LogDeviceProfileManager: Active device profile: [00000AAD2E505080][00000AAD283F0000 50] WindowsEditor
+[2025.03.30-17.39.33:681][  0]LogDeviceProfileManager: Profiles: [00000AAD2E504B40][00000AAD283FA000 50] Windows, [00000AAD2E505080][00000AAD283F0000 50] WindowsEditor, [00000AAD2E502A00][00000AAD18297800 50] WindowsServer, [00000AAD2E501500][00000AAD2B42C800 50] WindowsClient, [00000AAD2E504280][00000AAD283F2800 50] IOS, [00000AAD2E500C40][00000AAD2B42A000 50] iPadAir2, [00000AAD2E503640][00000AAD2E6C2800 50] IPadPro, [00000AAD2E5039C0][00000AAD2E6C0000 50] iPadAir3, [00000AAD2E503480][00000AAD2E6C5000 50] iPadAir4, [00000AAD2E505400][00000AAD283B5000 50] iPadMini4, [00000AAD2E5032C0][00000AAD2E6C7800 50] iPadMini5, [00000AAD2E501880][00000AAD181C7800 50] iPadMini6, [00000AAD2E508340][00000AAD2E6E2800 50] iPhone6S, [00000AAD2E5086C0][00000AAD2E6EA000 50] iPhone7, [00000AAD2E508A40][00000AAD2E6EC800 50] iPodTouch7, [00000AAD2E5055C0][00000AAD2E6CA000 50] iPhone6SPlus, [00000AAD2E502BC0][00000AAD2E6E0000 50] iPhone7Plus, [00000AAD2E508500][00000AAD283B7800 50] iPhoneSE, [00000AAD2E500E00][00000AAD2E6E7800 50] iPhone8, [00000AAD2E501C00][00000AAD2E6A2800 50] iPhone8Plus, [00000AAD2E5063C0][00000AAD2E6A0000 50] iPhoneX, [00000AAD2E5040C0][00000AAD2E6AA000 50] iPhoneXS, [00000AAD2E500FC0][00000AAD2E6E5000 50] iPhoneXSMax, [00000AAD2E506040][00000AAD2E6CC800 50] iPhoneXR, [00000AAD2E507380][00000AAD2E6A7800 50] iPhone11, [00000AAD2E502140][00000AAD2E702800 50] iPhone11Pro, [00000AAD2E501A40][00000AAD2E700000 50] iPhone11ProMax, [00000AAD2E505E80][00000AAD2E70A000 50] iPhoneSE2, [00000AAD2E506900][00000AAD2E6A5000 50] iPhone12Mini, [00000AAD2E506580][00000AAD2E705000 50] iPhone12, [00000AAD2E502680][00000AAD2E707800 50] iPhone12Pro, [00000AAD2E502D80][00000AAD2E712800 50] iPhone12ProMax, [00000AAD2E507540][00000AAD2E710000 50] iPhone13Mini, [00000AAD2E506E40][00000AAD2E71A000 50] iPhone13, [00000AAD2E505CC0][00000AAD2E70C800 50] iPhone13Pro, [00000AAD2E508C00][00000AAD1803A000 50] iPhone13ProMax, [00000AAD2E506200][00000AAD2E717800 50] iPadPro105, [00000AAD2E503800][00000AAD2E722800 50] iPadPro129, [00000AAD2E5016C0][00000AAD2E720000 50] iPadPro97, [00000AAD2E5071C0][00000AAD2E72A000 50] iPadPro2_129, [00000AAD2E505240][00000AAD2E715000 50] iPad5, [00000AAD2E5024C0][00000AAD2E725000 50] iPad6, [00000AAD2E5008C0][00000AAD2E727800 50] iPad7, [00000AAD2E502F40][00000AAD2E732800 50] iPad8, [00000AAD2E503F00][00000AAD2E730000 50] iPad9, [00000AAD2E503B80][00000AAD2E73A000 50] iPadPro11, [00000AAD2E501340][00000AAD2E72C800 50] iPadPro2_11, [00000AAD2E507C40][00000AAD2E6AC800 50] iPadPro3_11, [00000AAD2E501DC0][00000AAD2E737800 50] iPadPro3_129, [00000AAD2E503D40][00000AAD2E742800 50] iPadPro4_129, [00000AAD2E507700][00000AAD2E740000 50] iPadPro5_129, [00000AAD2E504440][00000AAD2E74A000 50] AppleTV, [00000AAD2E505940][00000AAD2E735000 50] AppleTV4K, [00000AAD2E5047C0][00000AAD2E745000 50] TVOS, [00000AAD2E50AB80][00000AAD2E772800 50] Mac, [00000AAD2E50AF00][00000AAD2E770000 50] MacEditor, [00000AAD2E507A80][00000AAD2E775000 50] MacClient, [00000AAD2E507FC0][00000AAD2E74C800 50] MacServer, [00000AAD2E50B7C0][00000AAD2E762800 50] Linux, [00000AAD2E50B440][00000AAD2E760000 50] LinuxEditor, [00000AAD2E509140][00000AAD2E765000 50] LinuxArm64Editor, [00000AAD2E500540][00000AAD2E77C800 50] LinuxArm64, [00000AAD2E508180][00000AAD2E767800 50] LinuxClient, [00000AAD2E500700][00000AAD2E77A000 50] LinuxArm64Client, [00000AAD2E508F80][00000AAD2E73C800 50] LinuxServer, [00000AAD2E509300][00000AAD2E777800 50] LinuxArm64Server, [00000AAD2E50B600][00000AAD2E76C800 50] Android, [00000AAD2E50A100][00000AAD2E752800 50] Android_Preview_OpenGL, [00000AAD2E506C80][00000AAD2E750000 50] Android_Preview_Vulkan, [00000AAD2E509BC0][00000AAD2E75A000 50] Android_Low, [00000AAD2E504980][00000AAD2E76A000 50] Android_Mid, [00000AAD2E50A9C0][00000AAD2E747800 50] Android_High, [00000AAD2E50A640][00000AAD2E757800 50] Android_Default, [00000AAD2E507E00][00000AAD2E782800 50] Android_Adreno4xx, [00000AAD2E503100][00000AAD2E780000 50] Android_Adreno5xx_Low, [00000AAD2E509F40][00000AAD2E78A000 50] Android_Adreno5xx, [00000AAD2E50BB40][00000AAD2E755000 50] Android_Adreno6xx, [00000AAD2E501180][00000AAD2E785000 50] Android_Adreno6xx_Vulkan, [00000AAD2E509680][00000AAD2E787800 50] Android_Adreno7xx, [00000AAD2E504600][00000AAD2E792800 50] Android_Adreno7xx_Vulkan, [00000AAD2E50B0C0][00000AAD2E790000 50] Android_Mali_T6xx, [00000AAD2E509840][00000AAD2E79A000 50] Android_Mali_T7xx, [00000AAD2E50B280][00000AAD2E78C800 50] Android_Mali_T8xx, [00000AAD2E50A800][00000AAD2E71C800 50] Android_Mali_G71, [00000AAD2E505780][00000AAD2E797800 50] Android_Mali_G72, [00000AAD2E507000][00000AAD2E6D2800 50] Android_Mali_G72_Vulkan, [00000AAD2E50C400][00000AAD2E6D0000 50] Android_Mali_G76, [00000AAD2E50A480][00000AAD2E6DA000 50] Android_Mali_G76_Vulkan, [00000AAD2E508880][00000AAD2E795000 50] Android_Mali_G77, [00000AAD2E500A80][00000AAD2E6D5000 50] Android_Mali_G77_Vulkan, [00000AAD2E50C5C0][00000AAD2E6D7800 50] Android_Mali_G78, [00000AAD2E508DC0][00000AAD2E7C2800 50] Android_Mali_G78_Vulkan, [00000AAD2E50C940][00000AAD2E7C0000 50] Android_Mali_G710, [00000AAD2E50B980][00000AAD2E7CA000 50] Android_Mali_G710_Vulkan, [00000AAD2E502300][00000AAD2E6DC800 50] Android_Xclipse_920, [00000AAD2E50D3C0][00000AAD2E75C800 50] Android_Xclipse_920_Vulkan, [00000AAD2E509A00][00000AAD2E7C7800 50] Android_Vulkan_SM5, [00000AAD2E50C240][00000AAD2E7D2800 50] Android_PowerVR_G6xxx, [00000AAD2E506740][00000AAD2E7D0000 50] Android_PowerVR_GT7xxx, [00000AAD2E50BD00][00000AAD2E7DA000 50] Android_PowerVR_GE8xxx, [00000AAD2E50C080][00000AAD2E7C5000 50] Android_PowerVR_GM9xxx, [00000AAD2E50D740][00000AAD2E7D5000 50] Android_PowerVR_GM9xxx_Vulkan, [00000AAD2E504EC0][00000AAD2E7D7800 50] Android_TegraK1, [00000AAD2E50E380][00000AAD2E7E2800 50] Android_Unknown_Vulkan, [00000AAD2E509D80][00000AAD2E7E0000 50] Oculus_Quest, [00000AAD2E50DAC0][00000AAD2E7EA000 50] Oculus_Quest2, [00000AAD2E50AD40][00000AAD2E7DC800 50] HoloLens, 
+[2025.03.30-17.39.33:682][  0]LogCsvProfiler: Display: Metadata set : deviceprofile="WindowsEditor"
+[2025.03.30-17.39.33:703][  0]LogTexture: Display: Oodle Texture Encode Speed settings: Fast: RDO Off Lambda=0, Effort=Normal Final: RDO Off Lambda=0, Effort=Normal
+[2025.03.30-17.39.33:886][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2025.03.30-17.39.33:886][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2025.03.30-17.39.33:886][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2025.03.30-17.39.33:886][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2025.03.30-17.39.33:886][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2025.03.30-17.39.33:927][  0]LogNetVersion: Licenta 1.0.0, NetCL: 19505902, EngineNetVer: 23, GameNetVer: 0 (Checksum: 3382522962)
+[2025.03.30-17.39.34:192][  0]SourceControl: Source control is disabled
+[2025.03.30-17.39.34:223][  0]SourceControl: Source control is disabled
+[2025.03.30-17.39.34:223][  0]SourceControl: Source control is disabled
+[2025.03.30-17.39.34:425][  0]LogMoviePlayer: Initializing movie player
+[2025.03.30-17.39.34:607][  0]LogPython: Using Python 3.9.7
+[2025.03.30-17.39.35:429][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: 19111DBD4A58505B231DE78091DF98CE | Instance: E104B0BF4B354557CB33928DF6EB8453 (DESKTOP-7D65VCS-4360).
+[2025.03.30-17.39.35:450][  0]LogCollectionManager: Loaded 0 collections in 0.000915 seconds
+[2025.03.30-17.39.35:454][  0]LogFileCache: Scanning file cache for directory 'C:/Facultate/Licenta/Saved/Collections/' took 0.00s
+[2025.03.30-17.39.35:454][  0]LogFileCache: Scanning file cache for directory 'C:/Facultate/Licenta/Content/Developers/georg/Collections/' took 0.00s
+[2025.03.30-17.39.35:454][  0]LogFileCache: Scanning file cache for directory 'C:/Facultate/Licenta/Content/Collections/' took 0.00s
+[2025.03.30-17.39.35:454][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000003 seconds (updated 0 objects)
+[2025.03.30-17.39.35:477][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2025.03.30-17.39.35:484][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2025.03.30-17.39.35:529][  0]SourceControl: Source control is disabled
+[2025.03.30-17.39.35:534][  0]LogUProjectInfo: Found projects:
+[2025.03.30-17.39.35:628][  0]LogOpenImageDenoise: OIDN starting up
+[2025.03.30-17.39.35:671][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2025.03.30-17.39.35:689][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2025.03.30-17.39.35:689][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2025.03.30-17.39.35:814][  0]LogUObjectArray: 27190 objects as part of root set at end of initial load.
+[2025.03.30-17.39.35:814][  0]LogUObjectAllocator: 7749912 out of 0 bytes used by permanent object pool.
+[2025.03.30-17.39.35:814][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2025.03.30-17.39.35:898][  0]LogEngine: Initializing Engine...
+[2025.03.30-17.39.35:902][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2025.03.30-17.39.36:091][  0]LogInit: Initializing FReadOnlyCVARCache
+[2025.03.30-17.39.36:091][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2025.03.30-17.39.36:099][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2025.03.30-17.39.36:100][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2025.03.30-17.39.36:100][  0]LogAudio: Display: Registering Engine Module Parameter Interfaces...
+[2025.03.30-17.39.36:100][  0]LogAudio: Display: Audio Device Manager Initialized
+[2025.03.30-17.39.36:100][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2025.03.30-17.39.36:100][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.03.30-17.39.36:100][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.03.30-17.39.36:100][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.03.30-17.39.36:100][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.03.30-17.39.36:100][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.03.30-17.39.36:100][  0]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2025.03.30-17.39.36:100][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.03.30-17.39.36:100][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.03.30-17.39.36:101][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.03.30-17.39.36:101][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.03.30-17.39.36:101][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.03.30-17.39.36:107][  0]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.03.30-17.39.36:136][  0]LogAudioMixer: Display: Using Audio Hardware Device Digital Output (ASUS Xonar U3 Audio Device)
+[2025.03.30-17.39.36:137][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.03.30-17.39.36:139][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.03.30-17.39.36:139][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.03.30-17.39.36:140][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2025.03.30-17.39.36:140][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2025.03.30-17.39.36:141][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2025.03.30-17.39.36:141][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=1
+[2025.03.30-17.39.36:141][  0]LogInit: FAudioDevice initialized.
+[2025.03.30-17.39.36:142][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2025.03.30-17.39.36:142][  0]LogInit: Texture streaming: Enabled
+[2025.03.30-17.39.36:232][  0]LogCsvProfiler: Display: Metadata set : largeworldcoordinates="1"
+[2025.03.30-17.39.36:237][  0]LogLiveCoding: Display: Starting LiveCoding
+[2025.03.30-17.39.36:237][  0]LogLiveCoding: Display: LiveCodingConsole Arguments: UnrealEditor Win64 Development
+[2025.03.30-17.39.36:241][  0]LogLiveCoding: Display: Detected running instance in process group "UE_Licenta_0x638f3bd8", connecting to console process (PID: 5856)
+[2025.03.30-17.39.36:241][  0]LogLiveCoding: Display: Waiting for server
+[2025.03.30-17.39.36:241][  0]LogLiveCoding: Display: Successfully initialized, removing startup thread
+[2025.03.30-17.39.36:241][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2025.03.30-17.39.36:241][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.03.30-17.39.36:243][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2025.03.30-17.39.36:243][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.30-17.39.36:244][  0]LogInit: Display: Game Engine Initialized.
+[2025.03.30-17.39.36:244][  0]LogNiagaraEditor: GEditor isn't valid! Particle reset commands will not work for Niagara components!
+[2025.03.30-17.39.36:280][  0]LogInit: Display: Starting Game.
+[2025.03.30-17.39.36:280][  0]LogNet: Browse: /Game/Licenta?Name=Player
+[2025.03.30-17.39.36:280][  0]LogLoad: LoadMap: /Game/Licenta?Name=Player
+[2025.03.30-17.39.36:280][  0]LogWorld: BeginTearingDown for /Temp/Untitled_0
+[2025.03.30-17.39.36:280][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2025.03.30-17.39.36:280][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.30-17.39.36:285][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.03.30-17.39.36:288][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2025.03.30-17.39.37:104][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Licenta'.
+[2025.03.30-17.39.37:104][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2025.03.30-17.39.37:104][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.03.30-17.39.37:126][  0]LogAIModule: Creating AISystem for world Licenta
+[2025.03.30-17.39.37:127][  0]LogLoad: Game class is 'GameMode'
+[2025.03.30-17.39.37:143][  0]LogWorld: Bringing World /Game/Licenta.Licenta up for play (max tick rate 0) at 2025.03.30-20.39.37
+[2025.03.30-17.39.37:145][  0]LogWorld: Bringing up level for play took: 0.009912
+[2025.03.30-17.39.37:146][  0]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2025.03.30-17.39.37:152][  0]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2025.03.30-17.39.37:152][  0]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2025.03.30-17.39.37:152][  0]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2025.03.30-17.39.37:154][  0]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2025.03.30-17.39.37:154][  0]LogLoad: Took 0.874925 seconds to LoadMap(/Game/Licenta)
+[2025.03.30-17.39.37:154][  0]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2025.03.30-17.39.37:418][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2025.03.30-17.39.37:418][  0]LogLoad: (Engine Initialization) Total time: 8.44 seconds
+[2025.03.30-17.39.37:418][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2025.03.30-17.39.37:424][  0]LogSlate: Took 0.000505 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2025.03.30-17.39.37:427][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2025.03.30-17.39.37:432][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.30-17.39.37:608][  0]LogAutomationController: Ignoring very large delta of 16780667.48 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.03.30-17.39.39:171][292]LogViewport: Scene viewport resized to 1920x1017, mode Windowed.
+[2025.03.30-17.40.08:450][590]LogGameMode: Display: Match State Changed from InProgress to LeavingMap
+[2025.03.30-17.40.08:451][590]LogGameState: Match State Changed from InProgress to LeavingMap
+[2025.03.30-17.40.08:451][590]LogGameMode: ProcessServerTravel: ?Restart
+[2025.03.30-17.40.08:452][590]LogEngine: Server switch level: /Game/Licenta?Name=Player?Restart
+[2025.03.30-17.40.08:452][590]LogNet: Browse: /Game/Licenta?Name=Player?Restart
+[2025.03.30-17.40.08:452][590]LogLoad: LoadMap: /Game/Licenta?Name=Player
+[2025.03.30-17.40.08:452][590]LogWorld: BeginTearingDown for /Game/Licenta
+[2025.03.30-17.40.08:453][590]LogWorld: UWorld::CleanupWorld for Licenta, bSessionEnded=true, bCleanupResources=true
+[2025.03.30-17.40.08:453][590]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.30-17.40.08:496][590]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.03.30-17.40.08:510][590]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2025.03.30-17.40.09:290][590]LogAudio: Display: Audio Device (ID: 1) registered with world 'Licenta'.
+[2025.03.30-17.40.09:290][590]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2025.03.30-17.40.09:290][590]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.03.30-17.40.09:290][590]LogAIModule: Creating AISystem for world Licenta
+[2025.03.30-17.40.09:291][590]LogLoad: Game class is 'GameMode'
+[2025.03.30-17.40.09:301][590]LogWorld: Bringing World /Game/Licenta.Licenta up for play (max tick rate 0) at 2025.03.30-20.40.09
+[2025.03.30-17.40.09:302][590]LogWorld: Bringing up level for play took: 0.007790
+[2025.03.30-17.40.09:302][590]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2025.03.30-17.40.09:302][590]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2025.03.30-17.40.09:302][590]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2025.03.30-17.40.09:302][590]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2025.03.30-17.40.09:303][590]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2025.03.30-17.40.09:304][590]LogSlate: Took 0.000287 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2025.03.30-17.40.09:306][590]LogLoad: Took 0.853677 seconds to LoadMap(/Game/Licenta)
+[2025.03.30-17.40.09:312][590]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Insule/Pod2/Pod2.Pod2 being ready before playing
+[2025.03.30-17.41.13:077][845]LogGameMode: Display: Match State Changed from InProgress to LeavingMap
+[2025.03.30-17.41.13:077][845]LogGameState: Match State Changed from InProgress to LeavingMap
+[2025.03.30-17.41.13:077][845]LogGameMode: ProcessServerTravel: ?Restart
+[2025.03.30-17.41.13:078][845]LogEngine: Server switch level: /Game/Licenta?Name=Player?Restart
+[2025.03.30-17.41.13:078][845]LogNet: Browse: /Game/Licenta?Name=Player?Restart
+[2025.03.30-17.41.13:078][845]LogLoad: LoadMap: /Game/Licenta?Name=Player
+[2025.03.30-17.41.13:078][845]LogWorld: BeginTearingDown for /Game/Licenta
+[2025.03.30-17.41.13:079][845]LogWorld: UWorld::CleanupWorld for Licenta, bSessionEnded=true, bCleanupResources=true
+[2025.03.30-17.41.13:079][845]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.30-17.41.13:128][845]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.03.30-17.41.13:142][845]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2025.03.30-17.41.13:960][845]LogAudio: Display: Audio Device (ID: 1) registered with world 'Licenta'.
+[2025.03.30-17.41.13:960][845]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2025.03.30-17.41.13:960][845]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.03.30-17.41.13:960][845]LogAIModule: Creating AISystem for world Licenta
+[2025.03.30-17.41.13:961][845]LogLoad: Game class is 'GameMode'
+[2025.03.30-17.41.13:970][845]LogWorld: Bringing World /Game/Licenta.Licenta up for play (max tick rate 0) at 2025.03.30-20.41.13
+[2025.03.30-17.41.13:971][845]LogWorld: Bringing up level for play took: 0.008291
+[2025.03.30-17.41.13:972][845]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2025.03.30-17.41.13:972][845]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2025.03.30-17.41.13:972][845]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2025.03.30-17.41.13:972][845]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2025.03.30-17.41.13:973][845]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2025.03.30-17.41.13:974][845]LogLoad: Took 0.895453 seconds to LoadMap(/Game/Licenta)
+[2025.03.30-17.41.13:979][845]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Insule/Pod2/Pod2.Pod2 being ready before playing
+[2025.03.30-17.41.31:644][334]LogDerivedDataCache: C:/Users/georg/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.059 and deleted 0 file(s) with total size 0 MiB.
+[2025.03.30-17.41.37:594][239]LogGameMode: Display: Match State Changed from InProgress to LeavingMap
+[2025.03.30-17.41.37:594][239]LogGameState: Match State Changed from InProgress to LeavingMap
+[2025.03.30-17.41.37:594][239]LogGameMode: ProcessServerTravel: ?Restart
+[2025.03.30-17.41.37:594][239]LogEngine: Server switch level: /Game/Licenta?Name=Player?Restart
+[2025.03.30-17.41.37:594][239]LogNet: Browse: /Game/Licenta?Name=Player?Restart
+[2025.03.30-17.41.37:595][239]LogLoad: LoadMap: /Game/Licenta?Name=Player
+[2025.03.30-17.41.37:595][239]LogWorld: BeginTearingDown for /Game/Licenta
+[2025.03.30-17.41.37:595][239]LogWorld: UWorld::CleanupWorld for Licenta, bSessionEnded=true, bCleanupResources=true
+[2025.03.30-17.41.37:596][239]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.30-17.41.37:641][239]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.03.30-17.41.37:657][239]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2025.03.30-17.41.38:434][239]LogAudio: Display: Audio Device (ID: 1) registered with world 'Licenta'.
+[2025.03.30-17.41.38:434][239]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2025.03.30-17.41.38:434][239]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.03.30-17.41.38:434][239]LogAIModule: Creating AISystem for world Licenta
+[2025.03.30-17.41.38:435][239]LogLoad: Game class is 'GameMode'
+[2025.03.30-17.41.38:444][239]LogWorld: Bringing World /Game/Licenta.Licenta up for play (max tick rate 0) at 2025.03.30-20.41.38
+[2025.03.30-17.41.38:445][239]LogWorld: Bringing up level for play took: 0.007535
+[2025.03.30-17.41.38:446][239]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2025.03.30-17.41.38:446][239]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2025.03.30-17.41.38:446][239]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2025.03.30-17.41.38:446][239]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2025.03.30-17.41.38:447][239]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2025.03.30-17.41.38:447][239]LogLoad: Took 0.853177 seconds to LoadMap(/Game/Licenta)
+[2025.03.30-17.41.38:453][239]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Insule/Pod2/Pod2.Pod2 being ready before playing
+[2025.03.30-17.42.39:962][ 75]LogGameMode: Display: Match State Changed from InProgress to LeavingMap
+[2025.03.30-17.42.39:962][ 75]LogGameState: Match State Changed from InProgress to LeavingMap
+[2025.03.30-17.42.39:962][ 75]LogGameMode: ProcessServerTravel: ?Restart
+[2025.03.30-17.42.39:962][ 75]LogEngine: Server switch level: /Game/Licenta?Name=Player?Restart
+[2025.03.30-17.42.39:962][ 75]LogNet: Browse: /Game/Licenta?Name=Player?Restart
+[2025.03.30-17.42.39:962][ 75]LogLoad: LoadMap: /Game/Licenta?Name=Player
+[2025.03.30-17.42.39:962][ 75]LogWorld: BeginTearingDown for /Game/Licenta
+[2025.03.30-17.42.39:963][ 75]LogWorld: UWorld::CleanupWorld for Licenta, bSessionEnded=true, bCleanupResources=true
+[2025.03.30-17.42.39:963][ 75]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.30-17.42.40:001][ 75]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.03.30-17.42.40:016][ 75]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2025.03.30-17.42.40:801][ 75]LogAudio: Display: Audio Device (ID: 1) registered with world 'Licenta'.
+[2025.03.30-17.42.40:801][ 75]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2025.03.30-17.42.40:801][ 75]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.03.30-17.42.40:802][ 75]LogAIModule: Creating AISystem for world Licenta
+[2025.03.30-17.42.40:803][ 75]LogLoad: Game class is 'GameMode'
+[2025.03.30-17.42.40:812][ 75]LogWorld: Bringing World /Game/Licenta.Licenta up for play (max tick rate 0) at 2025.03.30-20.42.40
+[2025.03.30-17.42.40:813][ 75]LogWorld: Bringing up level for play took: 0.007782
+[2025.03.30-17.42.40:814][ 75]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2025.03.30-17.42.40:814][ 75]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2025.03.30-17.42.40:814][ 75]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2025.03.30-17.42.40:814][ 75]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2025.03.30-17.42.40:815][ 75]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2025.03.30-17.42.40:816][ 75]LogLoad: Took 0.853209 seconds to LoadMap(/Game/Licenta)
+[2025.03.30-17.42.40:820][ 75]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Insule/Pod2/Pod2.Pod2 being ready before playing
+[2025.03.30-17.43.11:872][546]LogGameMode: Display: Match State Changed from InProgress to LeavingMap
+[2025.03.30-17.43.11:872][546]LogGameState: Match State Changed from InProgress to LeavingMap
+[2025.03.30-17.43.11:872][546]LogGameMode: ProcessServerTravel: ?Restart
+[2025.03.30-17.43.11:873][546]LogEngine: Server switch level: /Game/Licenta?Name=Player?Restart
+[2025.03.30-17.43.11:873][546]LogNet: Browse: /Game/Licenta?Name=Player?Restart
+[2025.03.30-17.43.11:873][546]LogLoad: LoadMap: /Game/Licenta?Name=Player
+[2025.03.30-17.43.11:873][546]LogWorld: BeginTearingDown for /Game/Licenta
+[2025.03.30-17.43.11:874][546]LogWorld: UWorld::CleanupWorld for Licenta, bSessionEnded=true, bCleanupResources=true
+[2025.03.30-17.43.11:874][546]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.30-17.43.11:912][546]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.03.30-17.43.11:924][546]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2025.03.30-17.43.12:702][546]LogAudio: Display: Audio Device (ID: 1) registered with world 'Licenta'.
+[2025.03.30-17.43.12:703][546]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2025.03.30-17.43.12:703][546]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.03.30-17.43.12:703][546]LogAIModule: Creating AISystem for world Licenta
+[2025.03.30-17.43.12:703][546]LogLoad: Game class is 'GameMode'
+[2025.03.30-17.43.12:712][546]LogWorld: Bringing World /Game/Licenta.Licenta up for play (max tick rate 0) at 2025.03.30-20.43.12
+[2025.03.30-17.43.12:713][546]LogWorld: Bringing up level for play took: 0.006620
+[2025.03.30-17.43.12:713][546]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2025.03.30-17.43.12:714][546]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2025.03.30-17.43.12:714][546]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2025.03.30-17.43.12:714][546]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2025.03.30-17.43.12:715][546]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2025.03.30-17.43.12:715][546]LogLoad: Took 0.842651 seconds to LoadMap(/Game/Licenta)
+[2025.03.30-17.43.12:719][546]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Insule/Pod2/Pod2.Pod2 being ready before playing
+[2025.03.30-17.44.14:896][341]LogGameMode: Display: Match State Changed from InProgress to LeavingMap
+[2025.03.30-17.44.14:896][341]LogGameState: Match State Changed from InProgress to LeavingMap
+[2025.03.30-17.44.14:896][341]LogGameMode: ProcessServerTravel: ?Restart
+[2025.03.30-17.44.14:896][341]LogEngine: Server switch level: /Game/Licenta?Name=Player?Restart
+[2025.03.30-17.44.14:896][341]LogNet: Browse: /Game/Licenta?Name=Player?Restart
+[2025.03.30-17.44.14:896][341]LogLoad: LoadMap: /Game/Licenta?Name=Player
+[2025.03.30-17.44.14:896][341]LogWorld: BeginTearingDown for /Game/Licenta
+[2025.03.30-17.44.14:897][341]LogWorld: UWorld::CleanupWorld for Licenta, bSessionEnded=true, bCleanupResources=true
+[2025.03.30-17.44.14:897][341]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.30-17.44.14:929][341]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.03.30-17.44.14:942][341]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2025.03.30-17.44.15:743][341]LogAudio: Display: Audio Device (ID: 1) registered with world 'Licenta'.
+[2025.03.30-17.44.15:743][341]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2025.03.30-17.44.15:743][341]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.03.30-17.44.15:743][341]LogAIModule: Creating AISystem for world Licenta
+[2025.03.30-17.44.15:744][341]LogLoad: Game class is 'GameMode'
+[2025.03.30-17.44.15:753][341]LogWorld: Bringing World /Game/Licenta.Licenta up for play (max tick rate 0) at 2025.03.30-20.44.15
+[2025.03.30-17.44.15:754][341]LogWorld: Bringing up level for play took: 0.007558
+[2025.03.30-17.44.15:755][341]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2025.03.30-17.44.15:755][341]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2025.03.30-17.44.15:755][341]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2025.03.30-17.44.15:755][341]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2025.03.30-17.44.15:756][341]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2025.03.30-17.44.15:757][341]LogLoad: Took 0.859780 seconds to LoadMap(/Game/Licenta)
+[2025.03.30-17.44.15:761][341]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Insule/Pod2/Pod2.Pod2 being ready before playing
+[2025.03.30-17.45.09:520][ 46]LogGameMode: Display: Match State Changed from InProgress to LeavingMap
+[2025.03.30-17.45.09:520][ 46]LogGameState: Match State Changed from InProgress to LeavingMap
+[2025.03.30-17.45.09:520][ 46]LogGameMode: ProcessServerTravel: ?Restart
+[2025.03.30-17.45.09:521][ 46]LogEngine: Server switch level: /Game/Licenta?Name=Player?Restart
+[2025.03.30-17.45.09:521][ 46]LogNet: Browse: /Game/Licenta?Name=Player?Restart
+[2025.03.30-17.45.09:521][ 46]LogLoad: LoadMap: /Game/Licenta?Name=Player
+[2025.03.30-17.45.09:521][ 46]LogWorld: BeginTearingDown for /Game/Licenta
+[2025.03.30-17.45.09:522][ 46]LogWorld: UWorld::CleanupWorld for Licenta, bSessionEnded=true, bCleanupResources=true
+[2025.03.30-17.45.09:522][ 46]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.30-17.45.09:560][ 46]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.03.30-17.45.09:575][ 46]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2025.03.30-17.45.10:358][ 46]LogAudio: Display: Audio Device (ID: 1) registered with world 'Licenta'.
+[2025.03.30-17.45.10:358][ 46]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2025.03.30-17.45.10:358][ 46]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.03.30-17.45.10:358][ 46]LogAIModule: Creating AISystem for world Licenta
+[2025.03.30-17.45.10:359][ 46]LogLoad: Game class is 'GameMode'
+[2025.03.30-17.45.10:368][ 46]LogWorld: Bringing World /Game/Licenta.Licenta up for play (max tick rate 0) at 2025.03.30-20.45.10
+[2025.03.30-17.45.10:369][ 46]LogWorld: Bringing up level for play took: 0.007545
+[2025.03.30-17.45.10:369][ 46]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2025.03.30-17.45.10:370][ 46]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2025.03.30-17.45.10:370][ 46]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2025.03.30-17.45.10:370][ 46]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2025.03.30-17.45.10:371][ 46]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2025.03.30-17.45.10:371][ 46]LogLoad: Took 0.849913 seconds to LoadMap(/Game/Licenta)
+[2025.03.30-17.45.10:376][ 46]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Insule/Pod2/Pod2.Pod2 being ready before playing
+[2025.03.30-17.46.10:625][510]LogGameMode: Display: Match State Changed from InProgress to LeavingMap
+[2025.03.30-17.46.10:625][510]LogGameState: Match State Changed from InProgress to LeavingMap
+[2025.03.30-17.46.10:625][510]LogGameMode: ProcessServerTravel: ?Restart
+[2025.03.30-17.46.10:626][510]LogEngine: Server switch level: /Game/Licenta?Name=Player?Restart
+[2025.03.30-17.46.10:626][510]LogNet: Browse: /Game/Licenta?Name=Player?Restart
+[2025.03.30-17.46.10:626][510]LogLoad: LoadMap: /Game/Licenta?Name=Player
+[2025.03.30-17.46.10:626][510]LogWorld: BeginTearingDown for /Game/Licenta
+[2025.03.30-17.46.10:627][510]LogWorld: UWorld::CleanupWorld for Licenta, bSessionEnded=true, bCleanupResources=true
+[2025.03.30-17.46.10:627][510]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.30-17.46.10:659][510]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.03.30-17.46.10:674][510]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2025.03.30-17.46.11:470][510]LogAudio: Display: Audio Device (ID: 1) registered with world 'Licenta'.
+[2025.03.30-17.46.11:470][510]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2025.03.30-17.46.11:470][510]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.03.30-17.46.11:470][510]LogAIModule: Creating AISystem for world Licenta
+[2025.03.30-17.46.11:470][510]LogLoad: Game class is 'GameMode'
+[2025.03.30-17.46.11:479][510]LogWorld: Bringing World /Game/Licenta.Licenta up for play (max tick rate 0) at 2025.03.30-20.46.11
+[2025.03.30-17.46.11:480][510]LogWorld: Bringing up level for play took: 0.007160
+[2025.03.30-17.46.11:481][510]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2025.03.30-17.46.11:481][510]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2025.03.30-17.46.11:481][510]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2025.03.30-17.46.11:481][510]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2025.03.30-17.46.11:482][510]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2025.03.30-17.46.11:483][510]LogLoad: Took 0.856650 seconds to LoadMap(/Game/Licenta)
+[2025.03.30-17.46.11:487][510]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Insule/Pod2/Pod2.Pod2 being ready before playing
+[2025.03.30-17.46.37:271][110]LogGameMode: Display: Match State Changed from InProgress to LeavingMap
+[2025.03.30-17.46.37:271][110]LogGameState: Match State Changed from InProgress to LeavingMap
+[2025.03.30-17.46.37:271][110]LogGameMode: ProcessServerTravel: ?Restart
+[2025.03.30-17.46.37:272][110]LogEngine: Server switch level: /Game/Licenta?Name=Player?Restart
+[2025.03.30-17.46.37:272][110]LogNet: Browse: /Game/Licenta?Name=Player?Restart
+[2025.03.30-17.46.37:272][110]LogLoad: LoadMap: /Game/Licenta?Name=Player
+[2025.03.30-17.46.37:272][110]LogWorld: BeginTearingDown for /Game/Licenta
+[2025.03.30-17.46.37:273][110]LogWorld: UWorld::CleanupWorld for Licenta, bSessionEnded=true, bCleanupResources=true
+[2025.03.30-17.46.37:273][110]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.30-17.46.37:310][110]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.03.30-17.46.37:328][110]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2025.03.30-17.46.38:110][110]LogAudio: Display: Audio Device (ID: 1) registered with world 'Licenta'.
+[2025.03.30-17.46.38:110][110]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2025.03.30-17.46.38:110][110]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.03.30-17.46.38:110][110]LogAIModule: Creating AISystem for world Licenta
+[2025.03.30-17.46.38:111][110]LogLoad: Game class is 'GameMode'
+[2025.03.30-17.46.38:120][110]LogWorld: Bringing World /Game/Licenta.Licenta up for play (max tick rate 0) at 2025.03.30-20.46.38
+[2025.03.30-17.46.38:121][110]LogWorld: Bringing up level for play took: 0.007577
+[2025.03.30-17.46.38:122][110]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2025.03.30-17.46.38:122][110]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2025.03.30-17.46.38:122][110]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2025.03.30-17.46.38:122][110]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2025.03.30-17.46.38:123][110]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2025.03.30-17.46.38:123][110]LogLoad: Took 0.852422 seconds to LoadMap(/Game/Licenta)
+[2025.03.30-17.46.38:128][110]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Insule/Pod2/Pod2.Pod2 being ready before playing
+[2025.03.30-17.47.02:971][595]LogGameMode: Display: Match State Changed from InProgress to LeavingMap
+[2025.03.30-17.47.02:971][595]LogGameState: Match State Changed from InProgress to LeavingMap
+[2025.03.30-17.47.02:971][595]LogGameMode: ProcessServerTravel: ?Restart
+[2025.03.30-17.47.02:972][595]LogEngine: Server switch level: /Game/Licenta?Name=Player?Restart
+[2025.03.30-17.47.02:972][595]LogNet: Browse: /Game/Licenta?Name=Player?Restart
+[2025.03.30-17.47.02:972][595]LogLoad: LoadMap: /Game/Licenta?Name=Player
+[2025.03.30-17.47.02:972][595]LogWorld: BeginTearingDown for /Game/Licenta
+[2025.03.30-17.47.02:973][595]LogWorld: UWorld::CleanupWorld for Licenta, bSessionEnded=true, bCleanupResources=true
+[2025.03.30-17.47.02:973][595]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.30-17.47.03:008][595]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.03.30-17.47.03:022][595]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2025.03.30-17.47.03:801][595]LogAudio: Display: Audio Device (ID: 1) registered with world 'Licenta'.
+[2025.03.30-17.47.03:801][595]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2025.03.30-17.47.03:802][595]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.03.30-17.47.03:802][595]LogAIModule: Creating AISystem for world Licenta
+[2025.03.30-17.47.03:802][595]LogLoad: Game class is 'GameMode'
+[2025.03.30-17.47.03:811][595]LogWorld: Bringing World /Game/Licenta.Licenta up for play (max tick rate 0) at 2025.03.30-20.47.03
+[2025.03.30-17.47.03:812][595]LogWorld: Bringing up level for play took: 0.007356
+[2025.03.30-17.47.03:813][595]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2025.03.30-17.47.03:813][595]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2025.03.30-17.47.03:813][595]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2025.03.30-17.47.03:813][595]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2025.03.30-17.47.03:814][595]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2025.03.30-17.47.03:815][595]LogLoad: Took 0.842573 seconds to LoadMap(/Game/Licenta)
+[2025.03.30-17.47.03:819][595]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Insule/Pod2/Pod2.Pod2 being ready before playing
+[2025.03.30-17.48.12:345][134]LogGameMode: Display: Match State Changed from InProgress to LeavingMap
+[2025.03.30-17.48.12:345][134]LogGameState: Match State Changed from InProgress to LeavingMap
+[2025.03.30-17.48.12:345][134]LogGameMode: ProcessServerTravel: ?Restart
+[2025.03.30-17.48.12:346][134]LogEngine: Server switch level: /Game/Licenta?Name=Player?Restart
+[2025.03.30-17.48.12:346][134]LogNet: Browse: /Game/Licenta?Name=Player?Restart
+[2025.03.30-17.48.12:346][134]LogLoad: LoadMap: /Game/Licenta?Name=Player
+[2025.03.30-17.48.12:346][134]LogWorld: BeginTearingDown for /Game/Licenta
+[2025.03.30-17.48.12:346][134]LogWorld: UWorld::CleanupWorld for Licenta, bSessionEnded=true, bCleanupResources=true
+[2025.03.30-17.48.12:346][134]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.30-17.48.12:390][134]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.03.30-17.48.12:403][134]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2025.03.30-17.48.13:209][134]LogAudio: Display: Audio Device (ID: 1) registered with world 'Licenta'.
+[2025.03.30-17.48.13:209][134]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2025.03.30-17.48.13:209][134]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.03.30-17.48.13:210][134]LogAIModule: Creating AISystem for world Licenta
+[2025.03.30-17.48.13:210][134]LogLoad: Game class is 'GameMode'
+[2025.03.30-17.48.13:220][134]LogWorld: Bringing World /Game/Licenta.Licenta up for play (max tick rate 0) at 2025.03.30-20.48.13
+[2025.03.30-17.48.13:221][134]LogWorld: Bringing up level for play took: 0.008051
+[2025.03.30-17.48.13:221][134]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2025.03.30-17.48.13:222][134]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2025.03.30-17.48.13:222][134]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2025.03.30-17.48.13:222][134]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2025.03.30-17.48.13:223][134]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2025.03.30-17.48.13:223][134]LogLoad: Took 0.877807 seconds to LoadMap(/Game/Licenta)
+[2025.03.30-17.48.13:228][134]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Insule/Pod2/Pod2.Pod2 being ready before playing
+[2025.03.30-17.49.11:227][214]LogGameMode: Display: Match State Changed from InProgress to LeavingMap
+[2025.03.30-17.49.11:227][214]LogGameState: Match State Changed from InProgress to LeavingMap
+[2025.03.30-17.49.11:227][214]LogGameMode: ProcessServerTravel: ?Restart
+[2025.03.30-17.49.11:228][214]LogEngine: Server switch level: /Game/Licenta?Name=Player?Restart
+[2025.03.30-17.49.11:228][214]LogNet: Browse: /Game/Licenta?Name=Player?Restart
+[2025.03.30-17.49.11:228][214]LogLoad: LoadMap: /Game/Licenta?Name=Player
+[2025.03.30-17.49.11:228][214]LogWorld: BeginTearingDown for /Game/Licenta
+[2025.03.30-17.49.11:228][214]LogWorld: UWorld::CleanupWorld for Licenta, bSessionEnded=true, bCleanupResources=true
+[2025.03.30-17.49.11:229][214]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.30-17.49.11:268][214]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.03.30-17.49.11:285][214]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2025.03.30-17.49.12:087][214]LogAudio: Display: Audio Device (ID: 1) registered with world 'Licenta'.
+[2025.03.30-17.49.12:087][214]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2025.03.30-17.49.12:087][214]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.03.30-17.49.12:087][214]LogAIModule: Creating AISystem for world Licenta
+[2025.03.30-17.49.12:088][214]LogLoad: Game class is 'GameMode'
+[2025.03.30-17.49.12:098][214]LogWorld: Bringing World /Game/Licenta.Licenta up for play (max tick rate 0) at 2025.03.30-20.49.12
+[2025.03.30-17.49.12:099][214]LogWorld: Bringing up level for play took: 0.007790
+[2025.03.30-17.49.12:099][214]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2025.03.30-17.49.12:099][214]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2025.03.30-17.49.12:099][214]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2025.03.30-17.49.12:099][214]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2025.03.30-17.49.12:100][214]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2025.03.30-17.49.12:101][214]LogLoad: Took 0.873041 seconds to LoadMap(/Game/Licenta)
+[2025.03.30-17.49.12:106][214]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Insule/Pod2/Pod2.Pod2 being ready before playing
+[2025.03.30-17.49.42:452][411]LogGameMode: Display: Match State Changed from InProgress to LeavingMap
+[2025.03.30-17.49.42:452][411]LogGameState: Match State Changed from InProgress to LeavingMap
+[2025.03.30-17.49.42:452][411]LogGameMode: ProcessServerTravel: ?Restart
+[2025.03.30-17.49.42:452][411]LogEngine: Server switch level: /Game/Licenta?Name=Player?Restart
+[2025.03.30-17.49.42:452][411]LogNet: Browse: /Game/Licenta?Name=Player?Restart
+[2025.03.30-17.49.42:453][411]LogLoad: LoadMap: /Game/Licenta?Name=Player
+[2025.03.30-17.49.42:453][411]LogWorld: BeginTearingDown for /Game/Licenta
+[2025.03.30-17.49.42:453][411]LogWorld: UWorld::CleanupWorld for Licenta, bSessionEnded=true, bCleanupResources=true
+[2025.03.30-17.49.42:454][411]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.30-17.49.42:499][411]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.03.30-17.49.42:518][411]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2025.03.30-17.49.43:306][411]LogAudio: Display: Audio Device (ID: 1) registered with world 'Licenta'.
+[2025.03.30-17.49.43:306][411]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2025.03.30-17.49.43:306][411]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.03.30-17.49.43:306][411]LogAIModule: Creating AISystem for world Licenta
+[2025.03.30-17.49.43:306][411]LogLoad: Game class is 'GameMode'
+[2025.03.30-17.49.43:317][411]LogWorld: Bringing World /Game/Licenta.Licenta up for play (max tick rate 0) at 2025.03.30-20.49.43
+[2025.03.30-17.49.43:318][411]LogWorld: Bringing up level for play took: 0.008161
+[2025.03.30-17.49.43:319][411]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2025.03.30-17.49.43:319][411]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2025.03.30-17.49.43:319][411]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2025.03.30-17.49.43:319][411]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2025.03.30-17.49.43:320][411]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2025.03.30-17.49.43:320][411]LogLoad: Took 0.867753 seconds to LoadMap(/Game/Licenta)
+[2025.03.30-17.49.43:325][411]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Insule/Pod2/Pod2.Pod2 being ready before playing
+[2025.03.30-17.51.04:130][554]LogGameMode: Display: Match State Changed from InProgress to LeavingMap
+[2025.03.30-17.51.04:130][554]LogGameState: Match State Changed from InProgress to LeavingMap
+[2025.03.30-17.51.04:130][554]LogGameMode: ProcessServerTravel: ?Restart
+[2025.03.30-17.51.04:130][554]LogEngine: Server switch level: /Game/Licenta?Name=Player?Restart
+[2025.03.30-17.51.04:130][554]LogNet: Browse: /Game/Licenta?Name=Player?Restart
+[2025.03.30-17.51.04:131][554]LogLoad: LoadMap: /Game/Licenta?Name=Player
+[2025.03.30-17.51.04:131][554]LogWorld: BeginTearingDown for /Game/Licenta
+[2025.03.30-17.51.04:131][554]LogWorld: UWorld::CleanupWorld for Licenta, bSessionEnded=true, bCleanupResources=true
+[2025.03.30-17.51.04:131][554]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.30-17.51.04:172][554]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.03.30-17.51.04:184][554]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2025.03.30-17.51.04:993][554]LogAudio: Display: Audio Device (ID: 1) registered with world 'Licenta'.
+[2025.03.30-17.51.04:993][554]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2025.03.30-17.51.04:993][554]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.03.30-17.51.04:993][554]LogAIModule: Creating AISystem for world Licenta
+[2025.03.30-17.51.04:994][554]LogLoad: Game class is 'GameMode'
+[2025.03.30-17.51.05:005][554]LogWorld: Bringing World /Game/Licenta.Licenta up for play (max tick rate 0) at 2025.03.30-20.51.05
+[2025.03.30-17.51.05:006][554]LogWorld: Bringing up level for play took: 0.008606
+[2025.03.30-17.51.05:006][554]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2025.03.30-17.51.05:007][554]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2025.03.30-17.51.05:007][554]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2025.03.30-17.51.05:007][554]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2025.03.30-17.51.05:008][554]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2025.03.30-17.51.05:009][554]LogLoad: Took 0.879633 seconds to LoadMap(/Game/Licenta)
+[2025.03.30-17.51.05:016][554]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Insule/Pod2/Pod2.Pod2 being ready before playing
+[2025.03.30-17.52.15:518][256]LogGameMode: Display: Match State Changed from InProgress to LeavingMap
+[2025.03.30-17.52.15:518][256]LogGameState: Match State Changed from InProgress to LeavingMap
+[2025.03.30-17.52.15:518][256]LogGameMode: ProcessServerTravel: ?Restart
+[2025.03.30-17.52.15:519][256]LogEngine: Server switch level: /Game/Licenta?Name=Player?Restart
+[2025.03.30-17.52.15:519][256]LogNet: Browse: /Game/Licenta?Name=Player?Restart
+[2025.03.30-17.52.15:519][256]LogLoad: LoadMap: /Game/Licenta?Name=Player
+[2025.03.30-17.52.15:519][256]LogWorld: BeginTearingDown for /Game/Licenta
+[2025.03.30-17.52.15:520][256]LogWorld: UWorld::CleanupWorld for Licenta, bSessionEnded=true, bCleanupResources=true
+[2025.03.30-17.52.15:520][256]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.30-17.52.15:552][256]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.03.30-17.52.15:565][256]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2025.03.30-17.52.16:361][256]LogAudio: Display: Audio Device (ID: 1) registered with world 'Licenta'.
+[2025.03.30-17.52.16:361][256]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2025.03.30-17.52.16:362][256]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.03.30-17.52.16:362][256]LogAIModule: Creating AISystem for world Licenta
+[2025.03.30-17.52.16:362][256]LogLoad: Game class is 'GameMode'
+[2025.03.30-17.52.16:373][256]LogWorld: Bringing World /Game/Licenta.Licenta up for play (max tick rate 0) at 2025.03.30-20.52.16
+[2025.03.30-17.52.16:374][256]LogWorld: Bringing up level for play took: 0.007750
+[2025.03.30-17.52.16:374][256]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2025.03.30-17.52.16:374][256]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2025.03.30-17.52.16:374][256]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2025.03.30-17.52.16:374][256]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2025.03.30-17.52.16:375][256]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2025.03.30-17.52.16:376][256]LogLoad: Took 0.856835 seconds to LoadMap(/Game/Licenta)
+[2025.03.30-17.52.16:381][256]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Insule/Pod2/Pod2.Pod2 being ready before playing
+[2025.03.30-17.52.43:320][993]LogGameMode: Display: Match State Changed from InProgress to LeavingMap
+[2025.03.30-17.52.43:320][993]LogGameState: Match State Changed from InProgress to LeavingMap
+[2025.03.30-17.52.43:320][993]LogGameMode: ProcessServerTravel: ?Restart
+[2025.03.30-17.52.43:321][993]LogEngine: Server switch level: /Game/Licenta?Name=Player?Restart
+[2025.03.30-17.52.43:321][993]LogNet: Browse: /Game/Licenta?Name=Player?Restart
+[2025.03.30-17.52.43:321][993]LogLoad: LoadMap: /Game/Licenta?Name=Player
+[2025.03.30-17.52.43:321][993]LogWorld: BeginTearingDown for /Game/Licenta
+[2025.03.30-17.52.43:322][993]LogWorld: UWorld::CleanupWorld for Licenta, bSessionEnded=true, bCleanupResources=true
+[2025.03.30-17.52.43:322][993]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.30-17.52.43:372][993]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.03.30-17.52.43:389][993]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2025.03.30-17.52.44:173][993]LogAudio: Display: Audio Device (ID: 1) registered with world 'Licenta'.
+[2025.03.30-17.52.44:173][993]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2025.03.30-17.52.44:173][993]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.03.30-17.52.44:173][993]LogAIModule: Creating AISystem for world Licenta
+[2025.03.30-17.52.44:173][993]LogLoad: Game class is 'GameMode'
+[2025.03.30-17.52.44:182][993]LogWorld: Bringing World /Game/Licenta.Licenta up for play (max tick rate 0) at 2025.03.30-20.52.44
+[2025.03.30-17.52.44:183][993]LogWorld: Bringing up level for play took: 0.006560
+[2025.03.30-17.52.44:184][993]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2025.03.30-17.52.44:184][993]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2025.03.30-17.52.44:184][993]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2025.03.30-17.52.44:184][993]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2025.03.30-17.52.44:185][993]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2025.03.30-17.52.44:186][993]LogLoad: Took 0.864723 seconds to LoadMap(/Game/Licenta)
+[2025.03.30-17.52.44:190][993]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Insule/Pod2/Pod2.Pod2 being ready before playing
+[2025.03.30-17.54.04:065][957]LogGameMode: Display: Match State Changed from InProgress to LeavingMap
+[2025.03.30-17.54.04:065][957]LogGameState: Match State Changed from InProgress to LeavingMap
+[2025.03.30-17.54.04:065][957]LogGameMode: ProcessServerTravel: ?Restart
+[2025.03.30-17.54.04:065][957]LogEngine: Server switch level: /Game/Licenta?Name=Player?Restart
+[2025.03.30-17.54.04:065][957]LogNet: Browse: /Game/Licenta?Name=Player?Restart
+[2025.03.30-17.54.04:065][957]LogLoad: LoadMap: /Game/Licenta?Name=Player
+[2025.03.30-17.54.04:065][957]LogWorld: BeginTearingDown for /Game/Licenta
+[2025.03.30-17.54.04:066][957]LogWorld: UWorld::CleanupWorld for Licenta, bSessionEnded=true, bCleanupResources=true
+[2025.03.30-17.54.04:066][957]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.30-17.54.04:111][957]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.03.30-17.54.04:124][957]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2025.03.30-17.54.04:922][957]LogAudio: Display: Audio Device (ID: 1) registered with world 'Licenta'.
+[2025.03.30-17.54.04:922][957]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2025.03.30-17.54.04:923][957]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.03.30-17.54.04:923][957]LogAIModule: Creating AISystem for world Licenta
+[2025.03.30-17.54.04:923][957]LogLoad: Game class is 'GameMode'
+[2025.03.30-17.54.04:933][957]LogWorld: Bringing World /Game/Licenta.Licenta up for play (max tick rate 0) at 2025.03.30-20.54.04
+[2025.03.30-17.54.04:934][957]LogWorld: Bringing up level for play took: 0.007764
+[2025.03.30-17.54.04:934][957]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2025.03.30-17.54.04:935][957]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2025.03.30-17.54.04:935][957]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2025.03.30-17.54.04:935][957]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2025.03.30-17.54.04:936][957]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2025.03.30-17.54.04:937][957]LogLoad: Took 0.871255 seconds to LoadMap(/Game/Licenta)
+[2025.03.30-17.54.04:941][957]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Insule/Pod2/Pod2.Pod2 being ready before playing
+[2025.03.30-17.54.40:707][920]LogGameMode: Display: Match State Changed from InProgress to LeavingMap
+[2025.03.30-17.54.40:707][920]LogGameState: Match State Changed from InProgress to LeavingMap
+[2025.03.30-17.54.40:707][920]LogGameMode: ProcessServerTravel: ?Restart
+[2025.03.30-17.54.40:708][920]LogEngine: Server switch level: /Game/Licenta?Name=Player?Restart
+[2025.03.30-17.54.40:708][920]LogNet: Browse: /Game/Licenta?Name=Player?Restart
+[2025.03.30-17.54.40:708][920]LogLoad: LoadMap: /Game/Licenta?Name=Player
+[2025.03.30-17.54.40:708][920]LogWorld: BeginTearingDown for /Game/Licenta
+[2025.03.30-17.54.40:709][920]LogWorld: UWorld::CleanupWorld for Licenta, bSessionEnded=true, bCleanupResources=true
+[2025.03.30-17.54.40:709][920]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.30-17.54.40:745][920]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.03.30-17.54.40:761][920]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2025.03.30-17.54.41:544][920]LogAudio: Display: Audio Device (ID: 1) registered with world 'Licenta'.
+[2025.03.30-17.54.41:544][920]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2025.03.30-17.54.41:544][920]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.03.30-17.54.41:544][920]LogAIModule: Creating AISystem for world Licenta
+[2025.03.30-17.54.41:545][920]LogLoad: Game class is 'GameMode'
+[2025.03.30-17.54.41:554][920]LogWorld: Bringing World /Game/Licenta.Licenta up for play (max tick rate 0) at 2025.03.30-20.54.41
+[2025.03.30-17.54.41:555][920]LogWorld: Bringing up level for play took: 0.007639
+[2025.03.30-17.54.41:556][920]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2025.03.30-17.54.41:556][920]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2025.03.30-17.54.41:556][920]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2025.03.30-17.54.41:556][920]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2025.03.30-17.54.41:557][920]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2025.03.30-17.54.41:558][920]LogLoad: Took 0.849981 seconds to LoadMap(/Game/Licenta)
+[2025.03.30-17.54.41:562][920]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Insule/Pod2/Pod2.Pod2 being ready before playing
+[2025.03.30-17.55.52:609][601]LogGameMode: Display: Match State Changed from InProgress to LeavingMap
+[2025.03.30-17.55.52:609][601]LogGameState: Match State Changed from InProgress to LeavingMap
+[2025.03.30-17.55.52:610][601]LogGameMode: ProcessServerTravel: ?Restart
+[2025.03.30-17.55.52:610][601]LogEngine: Server switch level: /Game/Licenta?Name=Player?Restart
+[2025.03.30-17.55.52:610][601]LogNet: Browse: /Game/Licenta?Name=Player?Restart
+[2025.03.30-17.55.52:610][601]LogLoad: LoadMap: /Game/Licenta?Name=Player
+[2025.03.30-17.55.52:610][601]LogWorld: BeginTearingDown for /Game/Licenta
+[2025.03.30-17.55.52:611][601]LogWorld: UWorld::CleanupWorld for Licenta, bSessionEnded=true, bCleanupResources=true
+[2025.03.30-17.55.52:611][601]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.30-17.55.52:643][601]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.03.30-17.55.52:657][601]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2025.03.30-17.55.53:462][601]LogAudio: Display: Audio Device (ID: 1) registered with world 'Licenta'.
+[2025.03.30-17.55.53:462][601]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2025.03.30-17.55.53:462][601]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.03.30-17.55.53:462][601]LogAIModule: Creating AISystem for world Licenta
+[2025.03.30-17.55.53:463][601]LogLoad: Game class is 'GameMode'
+[2025.03.30-17.55.53:472][601]LogWorld: Bringing World /Game/Licenta.Licenta up for play (max tick rate 0) at 2025.03.30-20.55.53
+[2025.03.30-17.55.53:473][601]LogWorld: Bringing up level for play took: 0.007447
+[2025.03.30-17.55.53:474][601]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2025.03.30-17.55.53:474][601]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2025.03.30-17.55.53:474][601]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2025.03.30-17.55.53:474][601]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2025.03.30-17.55.53:475][601]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2025.03.30-17.55.53:476][601]LogLoad: Took 0.865120 seconds to LoadMap(/Game/Licenta)
+[2025.03.30-17.55.53:480][601]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Insule/Pod2/Pod2.Pod2 being ready before playing
+[2025.03.30-17.56.33:864][197]LogGameMode: Display: Match State Changed from InProgress to LeavingMap
+[2025.03.30-17.56.33:864][197]LogGameState: Match State Changed from InProgress to LeavingMap
+[2025.03.30-17.56.33:864][197]LogGameMode: ProcessServerTravel: ?Restart
+[2025.03.30-17.56.33:864][197]LogEngine: Server switch level: /Game/Licenta?Name=Player?Restart
+[2025.03.30-17.56.33:864][197]LogNet: Browse: /Game/Licenta?Name=Player?Restart
+[2025.03.30-17.56.33:865][197]LogLoad: LoadMap: /Game/Licenta?Name=Player
+[2025.03.30-17.56.33:865][197]LogWorld: BeginTearingDown for /Game/Licenta
+[2025.03.30-17.56.33:865][197]LogWorld: UWorld::CleanupWorld for Licenta, bSessionEnded=true, bCleanupResources=true
+[2025.03.30-17.56.33:865][197]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.30-17.56.33:903][197]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.03.30-17.56.33:916][197]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2025.03.30-17.56.34:699][197]LogAudio: Display: Audio Device (ID: 1) registered with world 'Licenta'.
+[2025.03.30-17.56.34:699][197]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2025.03.30-17.56.34:699][197]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.03.30-17.56.34:699][197]LogAIModule: Creating AISystem for world Licenta
+[2025.03.30-17.56.34:700][197]LogLoad: Game class is 'GameMode'
+[2025.03.30-17.56.34:710][197]LogWorld: Bringing World /Game/Licenta.Licenta up for play (max tick rate 0) at 2025.03.30-20.56.34
+[2025.03.30-17.56.34:711][197]LogWorld: Bringing up level for play took: 0.007876
+[2025.03.30-17.56.34:711][197]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2025.03.30-17.56.34:711][197]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2025.03.30-17.56.34:711][197]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2025.03.30-17.56.34:711][197]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2025.03.30-17.56.34:712][197]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2025.03.30-17.56.34:713][197]LogLoad: Took 0.848052 seconds to LoadMap(/Game/Licenta)
+[2025.03.30-17.56.34:717][197]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Insule/Pod2/Pod2.Pod2 being ready before playing
+[2025.03.30-17.57.46:252][917]LogGameMode: Display: Match State Changed from InProgress to LeavingMap
+[2025.03.30-17.57.46:252][917]LogGameState: Match State Changed from InProgress to LeavingMap
+[2025.03.30-17.57.46:252][917]LogGameMode: ProcessServerTravel: ?Restart
+[2025.03.30-17.57.46:252][917]LogEngine: Server switch level: /Game/Licenta?Name=Player?Restart
+[2025.03.30-17.57.46:252][917]LogNet: Browse: /Game/Licenta?Name=Player?Restart
+[2025.03.30-17.57.46:252][917]LogLoad: LoadMap: /Game/Licenta?Name=Player
+[2025.03.30-17.57.46:253][917]LogWorld: BeginTearingDown for /Game/Licenta
+[2025.03.30-17.57.46:253][917]LogWorld: UWorld::CleanupWorld for Licenta, bSessionEnded=true, bCleanupResources=true
+[2025.03.30-17.57.46:253][917]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.30-17.57.46:294][917]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.03.30-17.57.46:308][917]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2025.03.30-17.57.47:112][917]LogAudio: Display: Audio Device (ID: 1) registered with world 'Licenta'.
+[2025.03.30-17.57.47:112][917]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2025.03.30-17.57.47:112][917]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.03.30-17.57.47:113][917]LogAIModule: Creating AISystem for world Licenta
+[2025.03.30-17.57.47:113][917]LogLoad: Game class is 'GameMode'
+[2025.03.30-17.57.47:123][917]LogWorld: Bringing World /Game/Licenta.Licenta up for play (max tick rate 0) at 2025.03.30-20.57.47
+[2025.03.30-17.57.47:124][917]LogWorld: Bringing up level for play took: 0.007411
+[2025.03.30-17.57.47:124][917]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2025.03.30-17.57.47:124][917]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2025.03.30-17.57.47:124][917]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2025.03.30-17.57.47:124][917]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2025.03.30-17.57.47:125][917]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2025.03.30-17.57.47:126][917]LogLoad: Took 0.873301 seconds to LoadMap(/Game/Licenta)
+[2025.03.30-17.57.47:130][917]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Insule/Pod2/Pod2.Pod2 being ready before playing
+[2025.03.30-17.58.38:711][ 11]LogGameMode: Display: Match State Changed from InProgress to LeavingMap
+[2025.03.30-17.58.38:711][ 11]LogGameState: Match State Changed from InProgress to LeavingMap
+[2025.03.30-17.58.38:711][ 11]LogGameMode: ProcessServerTravel: ?Restart
+[2025.03.30-17.58.38:711][ 11]LogEngine: Server switch level: /Game/Licenta?Name=Player?Restart
+[2025.03.30-17.58.38:711][ 11]LogNet: Browse: /Game/Licenta?Name=Player?Restart
+[2025.03.30-17.58.38:712][ 11]LogLoad: LoadMap: /Game/Licenta?Name=Player
+[2025.03.30-17.58.38:712][ 11]LogWorld: BeginTearingDown for /Game/Licenta
+[2025.03.30-17.58.38:712][ 11]LogWorld: UWorld::CleanupWorld for Licenta, bSessionEnded=true, bCleanupResources=true
+[2025.03.30-17.58.38:712][ 11]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.30-17.58.38:743][ 11]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.03.30-17.58.38:757][ 11]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2025.03.30-17.58.39:541][ 11]LogAudio: Display: Audio Device (ID: 1) registered with world 'Licenta'.
+[2025.03.30-17.58.39:541][ 11]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2025.03.30-17.58.39:541][ 11]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.03.30-17.58.39:542][ 11]LogAIModule: Creating AISystem for world Licenta
+[2025.03.30-17.58.39:542][ 11]LogLoad: Game class is 'GameMode'
+[2025.03.30-17.58.39:551][ 11]LogWorld: Bringing World /Game/Licenta.Licenta up for play (max tick rate 0) at 2025.03.30-20.58.39
+[2025.03.30-17.58.39:552][ 11]LogWorld: Bringing up level for play took: 0.007350
+[2025.03.30-17.58.39:553][ 11]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2025.03.30-17.58.39:553][ 11]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2025.03.30-17.58.39:553][ 11]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2025.03.30-17.58.39:553][ 11]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2025.03.30-17.58.39:554][ 11]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2025.03.30-17.58.39:554][ 11]LogLoad: Took 0.842688 seconds to LoadMap(/Game/Licenta)
+[2025.03.30-17.58.39:559][ 11]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Insule/Pod2/Pod2.Pod2 being ready before playing
+[2025.03.30-18.01.08:105][ 48]LogGameMode: Display: Match State Changed from InProgress to LeavingMap
+[2025.03.30-18.01.08:105][ 48]LogGameState: Match State Changed from InProgress to LeavingMap
+[2025.03.30-18.01.08:105][ 48]LogGameMode: ProcessServerTravel: ?Restart
+[2025.03.30-18.01.08:106][ 48]LogEngine: Server switch level: /Game/Licenta?Name=Player?Restart
+[2025.03.30-18.01.08:106][ 48]LogNet: Browse: /Game/Licenta?Name=Player?Restart
+[2025.03.30-18.01.08:106][ 48]LogLoad: LoadMap: /Game/Licenta?Name=Player
+[2025.03.30-18.01.08:106][ 48]LogWorld: BeginTearingDown for /Game/Licenta
+[2025.03.30-18.01.08:107][ 48]LogWorld: UWorld::CleanupWorld for Licenta, bSessionEnded=true, bCleanupResources=true
+[2025.03.30-18.01.08:107][ 48]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.30-18.01.08:144][ 48]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.03.30-18.01.08:159][ 48]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2025.03.30-18.01.08:939][ 48]LogAudio: Display: Audio Device (ID: 1) registered with world 'Licenta'.
+[2025.03.30-18.01.08:939][ 48]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2025.03.30-18.01.08:939][ 48]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.03.30-18.01.08:939][ 48]LogAIModule: Creating AISystem for world Licenta
+[2025.03.30-18.01.08:940][ 48]LogLoad: Game class is 'GameMode'
+[2025.03.30-18.01.08:949][ 48]LogWorld: Bringing World /Game/Licenta.Licenta up for play (max tick rate 0) at 2025.03.30-21.01.08
+[2025.03.30-18.01.08:950][ 48]LogWorld: Bringing up level for play took: 0.007479
+[2025.03.30-18.01.08:950][ 48]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2025.03.30-18.01.08:951][ 48]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2025.03.30-18.01.08:951][ 48]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2025.03.30-18.01.08:951][ 48]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2025.03.30-18.01.08:952][ 48]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2025.03.30-18.01.08:952][ 48]LogLoad: Took 0.846008 seconds to LoadMap(/Game/Licenta)
+[2025.03.30-18.01.08:957][ 48]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Insule/Pod2/Pod2.Pod2 being ready before playing
+[2025.03.30-18.02.02:958][559]LogGameMode: Display: Match State Changed from InProgress to LeavingMap
+[2025.03.30-18.02.02:958][559]LogGameState: Match State Changed from InProgress to LeavingMap
+[2025.03.30-18.02.02:958][559]LogGameMode: ProcessServerTravel: ?Restart
+[2025.03.30-18.02.02:959][559]LogEngine: Server switch level: /Game/Licenta?Name=Player?Restart
+[2025.03.30-18.02.02:959][559]LogNet: Browse: /Game/Licenta?Name=Player?Restart
+[2025.03.30-18.02.02:959][559]LogLoad: LoadMap: /Game/Licenta?Name=Player
+[2025.03.30-18.02.02:959][559]LogWorld: BeginTearingDown for /Game/Licenta
+[2025.03.30-18.02.02:960][559]LogWorld: UWorld::CleanupWorld for Licenta, bSessionEnded=true, bCleanupResources=true
+[2025.03.30-18.02.02:960][559]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.30-18.02.02:994][559]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.03.30-18.02.03:007][559]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2025.03.30-18.02.03:790][559]LogAudio: Display: Audio Device (ID: 1) registered with world 'Licenta'.
+[2025.03.30-18.02.03:790][559]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2025.03.30-18.02.03:791][559]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.03.30-18.02.03:791][559]LogAIModule: Creating AISystem for world Licenta
+[2025.03.30-18.02.03:791][559]LogLoad: Game class is 'GameMode'
+[2025.03.30-18.02.03:801][559]LogWorld: Bringing World /Game/Licenta.Licenta up for play (max tick rate 0) at 2025.03.30-21.02.03
+[2025.03.30-18.02.03:802][559]LogWorld: Bringing up level for play took: 0.007680
+[2025.03.30-18.02.03:803][559]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2025.03.30-18.02.03:803][559]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2025.03.30-18.02.03:803][559]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2025.03.30-18.02.03:803][559]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2025.03.30-18.02.03:804][559]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2025.03.30-18.02.03:805][559]LogLoad: Took 0.845269 seconds to LoadMap(/Game/Licenta)
+[2025.03.30-18.02.03:810][559]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Insule/Pod2/Pod2.Pod2 being ready before playing
+[2025.03.30-18.02.33:985][741]LogGameMode: Display: Match State Changed from InProgress to LeavingMap
+[2025.03.30-18.02.33:985][741]LogGameState: Match State Changed from InProgress to LeavingMap
+[2025.03.30-18.02.33:985][741]LogGameMode: ProcessServerTravel: ?Restart
+[2025.03.30-18.02.33:985][741]LogEngine: Server switch level: /Game/Licenta?Name=Player?Restart
+[2025.03.30-18.02.33:986][741]LogNet: Browse: /Game/Licenta?Name=Player?Restart
+[2025.03.30-18.02.33:986][741]LogLoad: LoadMap: /Game/Licenta?Name=Player
+[2025.03.30-18.02.33:986][741]LogWorld: BeginTearingDown for /Game/Licenta
+[2025.03.30-18.02.33:986][741]LogWorld: UWorld::CleanupWorld for Licenta, bSessionEnded=true, bCleanupResources=true
+[2025.03.30-18.02.33:987][741]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.30-18.02.34:033][741]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.03.30-18.02.34:050][741]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2025.03.30-18.02.34:822][741]LogAudio: Display: Audio Device (ID: 1) registered with world 'Licenta'.
+[2025.03.30-18.02.34:823][741]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2025.03.30-18.02.34:823][741]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.03.30-18.02.34:823][741]LogAIModule: Creating AISystem for world Licenta
+[2025.03.30-18.02.34:823][741]LogLoad: Game class is 'GameMode'
+[2025.03.30-18.02.34:832][741]LogWorld: Bringing World /Game/Licenta.Licenta up for play (max tick rate 0) at 2025.03.30-21.02.34
+[2025.03.30-18.02.34:833][741]LogWorld: Bringing up level for play took: 0.007171
+[2025.03.30-18.02.34:834][741]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2025.03.30-18.02.34:834][741]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2025.03.30-18.02.34:834][741]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2025.03.30-18.02.34:834][741]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2025.03.30-18.02.34:835][741]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2025.03.30-18.02.34:835][741]LogLoad: Took 0.849575 seconds to LoadMap(/Game/Licenta)
+[2025.03.30-18.02.34:840][741]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Insule/Pod2/Pod2.Pod2 being ready before playing
+[2025.03.30-18.03.50:755][119]LogGameMode: Display: Match State Changed from InProgress to LeavingMap
+[2025.03.30-18.03.50:755][119]LogGameState: Match State Changed from InProgress to LeavingMap
+[2025.03.30-18.03.50:755][119]LogGameMode: ProcessServerTravel: ?Restart
+[2025.03.30-18.03.50:756][119]LogEngine: Server switch level: /Game/Licenta?Name=Player?Restart
+[2025.03.30-18.03.50:756][119]LogNet: Browse: /Game/Licenta?Name=Player?Restart
+[2025.03.30-18.03.50:756][119]LogLoad: LoadMap: /Game/Licenta?Name=Player
+[2025.03.30-18.03.50:756][119]LogWorld: BeginTearingDown for /Game/Licenta
+[2025.03.30-18.03.50:757][119]LogWorld: UWorld::CleanupWorld for Licenta, bSessionEnded=true, bCleanupResources=true
+[2025.03.30-18.03.50:757][119]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.30-18.03.50:794][119]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.03.30-18.03.50:819][119]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2025.03.30-18.03.51:715][119]LogAudio: Display: Audio Device (ID: 1) registered with world 'Licenta'.
+[2025.03.30-18.03.51:716][119]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2025.03.30-18.03.51:716][119]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.03.30-18.03.51:716][119]LogAIModule: Creating AISystem for world Licenta
+[2025.03.30-18.03.51:716][119]LogLoad: Game class is 'GameMode'
+[2025.03.30-18.03.51:728][119]LogWorld: Bringing World /Game/Licenta.Licenta up for play (max tick rate 0) at 2025.03.30-21.03.51
+[2025.03.30-18.03.51:729][119]LogWorld: Bringing up level for play took: 0.009077
+[2025.03.30-18.03.51:730][119]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2025.03.30-18.03.51:730][119]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2025.03.30-18.03.51:730][119]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2025.03.30-18.03.51:730][119]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2025.03.30-18.03.51:732][119]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2025.03.30-18.03.51:733][119]LogLoad: Took 0.976855 seconds to LoadMap(/Game/Licenta)
+[2025.03.30-18.03.51:738][119]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Insule/Pod2/Pod2.Pod2 being ready before playing
+[2025.03.30-18.04.50:004][129]Closing by request
+[2025.03.30-18.04.50:004][129]LogWindows: FPlatformMisc::RequestExit(0)
+[2025.03.30-18.04.50:004][129]LogWindows: FPlatformMisc::RequestExitWithStatus(0, 0)
+[2025.03.30-18.04.50:004][129]LogCore: Engine exit requested (reason: Win RequestExit)
+[2025.03.30-18.04.50:010][130]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2025.03.30-18.04.50:010][130]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2025.03.30-18.04.50:010][130]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2025.03.30-18.04.50:010][130]LogInit: Display: PreExit Game.
+[2025.03.30-18.04.50:022][130]LogWorld: BeginTearingDown for /Game/Licenta
+[2025.03.30-18.04.50:022][130]LogWorld: UWorld::CleanupWorld for Licenta, bSessionEnded=true, bCleanupResources=true
+[2025.03.30-18.04.50:022][130]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.30-18.04.50:979][130]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2025.03.30-18.04.50:979][130]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2025.03.30-18.04.50:979][130]LogAudio: Display: Audio Device unregistered from world 'Licenta'.
+[2025.03.30-18.04.51:008][130]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2025.03.30-18.04.51:009][130]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2025.03.30-18.04.51:014][130]LogAudio: Display: Audio Device Manager Shutdown
+[2025.03.30-18.04.51:026][130]LogSlate: Window 'Licenta (64-bit Development PCD3D_SM5) ' being destroyed
+[2025.03.30-18.04.51:035][130]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2025.03.30-18.04.51:035][130]LogExit: Preparing to exit.
+[2025.03.30-18.04.51:045][130]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2025.03.30-18.04.51:082][130]LogMoviePlayer: Shutting down movie player
+[2025.03.30-18.04.51:567][130]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.30-18.04.51:598][130]LogExit: Game engine shut down
+[2025.03.30-18.04.51:602][130]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2025.03.30-18.04.51:664][130]LogExit: Object subsystem successfully closed.
+[2025.03.30-18.04.51:669][130]LogShaderCompilers: Display: ================================================
+[2025.03.30-18.04.51:669][130]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.03.30-18.04.51:669][130]LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2025.03.30-18.04.51:669][130]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2025.03.30-18.04.51:669][130]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.00%
+[2025.03.30-18.04.51:669][130]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.03.30-18.04.51:669][130]LogShaderCompilers: Display: Shaders Compiled: 0
+[2025.03.30-18.04.51:669][130]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2025.03.30-18.04.51:669][130]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2025.03.30-18.04.51:669][130]LogShaderCompilers: Display: ================================================
+[2025.03.30-18.04.51:720][130]LogShaderCompilers: Display: Shaders left to compile 0
+[2025.03.30-18.04.51:732][130]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (530)
+[2025.03.30-18.04.51:732][130]LogModuleManager: Shutting down and abandoning module SequenceRecorder (528)
+[2025.03.30-18.04.51:732][130]LogModuleManager: Shutting down and abandoning module AutomationController (526)
+[2025.03.30-18.04.51:732][130]LogModuleManager: Shutting down and abandoning module AutomationWorker (524)
+[2025.03.30-18.04.51:732][130]LogModuleManager: Shutting down and abandoning module Voice (522)
+[2025.03.30-18.04.51:732][130]LogModuleManager: Shutting down and abandoning module AIModule (520)
+[2025.03.30-18.04.51:732][130]LogModuleManager: Shutting down and abandoning module GameplayDebugger (519)
+[2025.03.30-18.04.51:732][130]LogModuleManager: Shutting down and abandoning module AITestSuite (517)
+[2025.03.30-18.04.51:732][130]LogModuleManager: Shutting down and abandoning module NavigationSystem (515)
+[2025.03.30-18.04.51:732][130]LogModuleManager: Shutting down and abandoning module TimeManagement (512)
+[2025.03.30-18.04.51:732][130]LogModuleManager: Shutting down and abandoning module AnimGraph (510)
+[2025.03.30-18.04.51:732][130]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (508)
+[2025.03.30-18.04.51:732][130]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (506)
+[2025.03.30-18.04.51:732][130]LogModuleManager: Shutting down and abandoning module WebMMedia (504)
+[2025.03.30-18.04.51:732][130]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (502)
+[2025.03.30-18.04.51:732][130]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (500)
+[2025.03.30-18.04.51:732][130]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (498)
+[2025.03.30-18.04.51:732][130]LogModuleManager: Shutting down and abandoning module PlanarCut (496)
+[2025.03.30-18.04.51:732][130]LogModuleManager: Shutting down and abandoning module CharacterAI (494)
+[2025.03.30-18.04.51:732][130]LogModuleManager: Shutting down and abandoning module SessionServices (492)
+[2025.03.30-18.04.51:732][130]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (490)
+[2025.03.30-18.04.51:732][130]LogModuleManager: Shutting down and abandoning module LiveCoding (488)
+[2025.03.30-18.04.51:740][130]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (486)
+[2025.03.30-18.04.51:740][130]LogModuleManager: Shutting down and abandoning module MovieScene (484)
+[2025.03.30-18.04.51:740][130]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (482)
+[2025.03.30-18.04.51:740][130]LogModuleManager: Shutting down and abandoning module PortalServices (480)
+[2025.03.30-18.04.51:740][130]LogModuleManager: Shutting down and abandoning module PortalRpc (478)
+[2025.03.30-18.04.51:740][130]LogModuleManager: Shutting down and abandoning module MessagingRpc (476)
+[2025.03.30-18.04.51:740][130]LogModuleManager: Shutting down and abandoning module AudioMixerXAudio2 (474)
+[2025.03.30-18.04.51:740][130]LogModuleManager: Shutting down and abandoning module AudioMixer (473)
+[2025.03.30-18.04.51:740][130]LogModuleManager: Shutting down and abandoning module AudioMixerCore (472)
+[2025.03.30-18.04.51:740][130]LogModuleManager: Shutting down and abandoning module TypedElementRuntime (468)
+[2025.03.30-18.04.51:740][130]LogModuleManager: Shutting down and abandoning module TypedElementFramework (466)
+[2025.03.30-18.04.51:740][130]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (464)
+[2025.03.30-18.04.51:740][130]LogModuleManager: Shutting down and abandoning module ProfilerService (462)
+[2025.03.30-18.04.51:807][130]LogModuleManager: Shutting down and abandoning module TaskGraph (460)
+[2025.03.30-18.04.51:807][130]LogModuleManager: Shutting down and abandoning module InterchangeFbxParser (458)
+[2025.03.30-18.04.51:807][130]LogModuleManager: Shutting down and abandoning module InterchangeDispatcher (456)
+[2025.03.30-18.04.51:807][130]LogModuleManager: Shutting down and abandoning module InterchangePipelines (454)
+[2025.03.30-18.04.51:807][130]LogModuleManager: Shutting down and abandoning module InterchangeExport (452)
+[2025.03.30-18.04.51:807][130]LogModuleManager: Shutting down and abandoning module InterchangeMessages (450)
+[2025.03.30-18.04.51:807][130]LogModuleManager: Shutting down and abandoning module InterchangeImport (448)
+[2025.03.30-18.04.51:807][130]LogModuleManager: Shutting down and abandoning module InterchangeNodes (446)
+[2025.03.30-18.04.51:807][130]LogModuleManager: Shutting down and abandoning module Synthesis (444)
+[2025.03.30-18.04.51:807][130]LogModuleManager: Shutting down and abandoning module ResonanceAudio (442)
+[2025.03.30-18.04.51:807][130]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (440)
+[2025.03.30-18.04.51:807][130]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (438)
+[2025.03.30-18.04.51:807][130]LogModuleManager: Shutting down and abandoning module ModelingOperators (436)
+[2025.03.30-18.04.51:807][130]LogModuleManager: Shutting down and abandoning module ModelingComponents (434)
+[2025.03.30-18.04.51:807][130]LogModuleManager: Shutting down and abandoning module MeshModelingTools (432)
+[2025.03.30-18.04.51:807][130]LogModuleManager: Shutting down and abandoning module GooglePAD (430)
+[2025.03.30-18.04.51:807][130]LogModuleManager: Shutting down and abandoning module DynamicMesh (428)
+[2025.03.30-18.04.51:808][130]LogModuleManager: Shutting down and abandoning module GeometryAlgorithms (426)
+[2025.03.30-18.04.51:808][130]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (424)
+[2025.03.30-18.04.51:808][130]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (423)
+[2025.03.30-18.04.51:808][130]LogModuleManager: Shutting down and abandoning module GeometryCache (420)
+[2025.03.30-18.04.51:808][130]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (419)
+[2025.03.30-18.04.51:808][130]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (416)
+[2025.03.30-18.04.51:808][130]LogModuleManager: Shutting down and abandoning module CableComponent (414)
+[2025.03.30-18.04.51:808][130]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (412)
+[2025.03.30-18.04.51:808][130]LogModuleManager: Shutting down and abandoning module AudioCapture (410)
+[2025.03.30-18.04.51:808][130]LogModuleManager: Shutting down and abandoning module AudioCaptureRtAudio (409)
+[2025.03.30-18.04.51:808][130]LogModuleManager: Shutting down and abandoning module AssetTags (406)
+[2025.03.30-18.04.51:808][130]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (404)
+[2025.03.30-18.04.51:808][130]LogModuleManager: Shutting down and abandoning module AppleImageUtils (402)
+[2025.03.30-18.04.51:808][130]LogModuleManager: Shutting down and abandoning module AndroidPermission (400)
+[2025.03.30-18.04.51:808][130]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (398)
+[2025.03.30-18.04.51:808][130]LogModuleManager: Shutting down and abandoning module SequencerScripting (394)
+[2025.03.30-18.04.51:808][130]LogModuleManager: Shutting down and abandoning module TemplateSequence (392)
+[2025.03.30-18.04.51:808][130]LogModuleManager: Shutting down and abandoning module MediaCompositing (390)
+[2025.03.30-18.04.51:808][130]LogModuleManager: Shutting down and abandoning module ImgMedia (388)
+[2025.03.30-18.04.51:808][130]LogModuleManager: Shutting down and abandoning module OpenImageDenoise (386)
+[2025.03.30-18.04.51:808][130]LogOpenImageDenoise: OIDN shutting down
+[2025.03.30-18.04.51:808][130]LogModuleManager: Shutting down and abandoning module MeshModelingToolsExp (384)
+[2025.03.30-18.04.51:808][130]LogModuleManager: Shutting down and abandoning module GeometryFlowMeshProcessing (382)
+[2025.03.30-18.04.51:808][130]LogModuleManager: Shutting down and abandoning module GeometryFlowCore (380)
+[2025.03.30-18.04.51:808][130]LogModuleManager: Shutting down and abandoning module GeometryCollectionTracks (378)
+[2025.03.30-18.04.51:808][130]LogModuleManager: Shutting down and abandoning module GeometryCollectionSequencer (377)
+[2025.03.30-18.04.51:808][130]LogModuleManager: Shutting down and abandoning module ChaosNiagara (374)
+[2025.03.30-18.04.51:808][130]LogModuleManager: Shutting down and abandoning module BackChannel (372)
+[2025.03.30-18.04.51:808][130]LogModuleManager: Shutting down and abandoning module AutomationUtils (370)
+[2025.03.30-18.04.51:808][130]LogModuleManager: Shutting down and abandoning module OodleNetworkHandlerComponent (368)
+[2025.03.30-18.04.51:808][130]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (366)
+[2025.03.30-18.04.51:808][130]LogModuleManager: Shutting down and abandoning module HotReload (365)
+[2025.03.30-18.04.51:808][130]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (362)
+[2025.03.30-18.04.51:808][130]LogModuleManager: Shutting down and abandoning module UObjectPlugin (360)
+[2025.03.30-18.04.51:808][130]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (358)
+[2025.03.30-18.04.51:808][130]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (356)
+[2025.03.30-18.04.51:808][130]LogModuleManager: Shutting down and abandoning module ControlRigSpline (354)
+[2025.03.30-18.04.51:808][130]LogModuleManager: Shutting down and abandoning module AnimationModifierLibrary (352)
+[2025.03.30-18.04.51:808][130]LogModuleManager: Shutting down and abandoning module SoundFields (350)
+[2025.03.30-18.04.51:808][130]LogModuleManager: Shutting down and abandoning module SignificanceManager (348)
+[2025.03.30-18.04.51:808][130]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (346)
+[2025.03.30-18.04.51:808][130]LogModuleManager: Shutting down and abandoning module PropertyAccessEditor (344)
+[2025.03.30-18.04.51:808][130]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (342)
+[2025.03.30-18.04.51:808][130]LogModuleManager: Shutting down and abandoning module AudioSynesthesia (340)
+[2025.03.30-18.04.51:808][130]LogModuleManager: Shutting down and abandoning module AudioAnalyzer (339)
+[2025.03.30-18.04.51:808][130]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaCore (336)
+[2025.03.30-18.04.51:808][130]LogModuleManager: Shutting down and abandoning module ActorSequence (334)
+[2025.03.30-18.04.51:808][130]LogModuleManager: Shutting down and abandoning module TcpMessaging (332)
+[2025.03.30-18.04.51:909][130]LogModuleManager: Shutting down and abandoning module UdpMessaging (330)
+[2025.03.30-18.04.52:010][130]LogModuleManager: Shutting down and abandoning module ImgMediaEngine (328)
+[2025.03.30-18.04.52:010][130]LogModuleManager: Shutting down and abandoning module NiagaraAnimNotifies (326)
+[2025.03.30-18.04.52:010][130]LogModuleManager: Shutting down and abandoning module Niagara (324)
+[2025.03.30-18.04.52:010][130]LogModuleManager: Shutting down and abandoning module SignalProcessing (323)
+[2025.03.30-18.04.52:010][130]LogModuleManager: Shutting down and abandoning module NiagaraEditor (321)
+[2025.03.30-18.04.52:010][130]LogModuleManager: Shutting down and abandoning module ContentBrowser (320)
+[2025.03.30-18.04.52:010][130]LogModuleManager: Shutting down and abandoning module ToolMenus (319)
+[2025.03.30-18.04.52:010][130]LogModuleManager: Shutting down and abandoning module CollectionManager (317)
+[2025.03.30-18.04.52:010][130]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (316)
+[2025.03.30-18.04.52:010][130]LogModuleManager: Shutting down and abandoning module ContentBrowserData (313)
+[2025.03.30-18.04.52:010][130]LogModuleManager: Shutting down and abandoning module NiagaraCore (308)
+[2025.03.30-18.04.52:010][130]LogModuleManager: Shutting down and abandoning module PythonScriptPlugin (306)
+[2025.03.30-18.04.52:010][130]LogModuleManager: Shutting down and abandoning module PBIK (304)
+[2025.03.30-18.04.52:010][130]LogModuleManager: Shutting down and abandoning module FullBodyIK (302)
+[2025.03.30-18.04.52:010][130]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (300)
+[2025.03.30-18.04.52:010][130]LogModuleManager: Shutting down and abandoning module FacialAnimation (298)
+[2025.03.30-18.04.52:010][130]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (296)
+[2025.03.30-18.04.52:010][130]LogModuleManager: Shutting down and abandoning module TreeMap (295)
+[2025.03.30-18.04.52:011][130]LogModuleManager: Shutting down and abandoning module PropertyAccessNode (292)
+[2025.03.30-18.04.52:011][130]LogModuleManager: Shutting down and abandoning module AnimationSharing (290)
+[2025.03.30-18.04.52:011][130]LogModuleManager: Shutting down and abandoning module GameplayCameras (288)
+[2025.03.30-18.04.52:011][130]LogModuleManager: Shutting down and abandoning module EnvironmentQueryEditor (286)
+[2025.03.30-18.04.52:011][130]LogModuleManager: Shutting down and abandoning module ControlRigDeveloper (284)
+[2025.03.30-18.04.52:011][130]LogModuleManager: Shutting down and abandoning module ControlRig (282)
+[2025.03.30-18.04.52:011][130]LogModuleManager: Shutting down and abandoning module LevelSequence (281)
+[2025.03.30-18.04.52:011][130]LogModuleManager: Shutting down and abandoning module IKRigDeveloper (278)
+[2025.03.30-18.04.52:011][130]LogModuleManager: Shutting down and abandoning module IKRig (276)
+[2025.03.30-18.04.52:011][130]LogModuleManager: Shutting down and abandoning module Paper2D (274)
+[2025.03.30-18.04.52:011][130]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (272)
+[2025.03.30-18.04.52:011][130]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (270)
+[2025.03.30-18.04.52:011][130]LogModuleManager: Shutting down and abandoning module AndroidFileServer (268)
+[2025.03.30-18.04.52:011][130]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (266)
+[2025.03.30-18.04.52:011][130]LogModuleManager: Shutting down and abandoning module PacketHandler (264)
+[2025.03.30-18.04.52:011][130]LogModuleManager: Shutting down and abandoning module AnimationDataController (262)
+[2025.03.30-18.04.52:011][130]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (260)
+[2025.03.30-18.04.52:011][130]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntimeNv (258)
+[2025.03.30-18.04.52:011][130]LogModuleManager: Shutting down and abandoning module MediaAssets (256)
+[2025.03.30-18.04.52:011][130]LogModuleManager: Shutting down and abandoning module Overlay (254)
+[2025.03.30-18.04.52:011][130]LogModuleManager: Shutting down and abandoning module OverlayEditor (253)
+[2025.03.30-18.04.52:011][130]LogModuleManager: Shutting down and abandoning module VREditor (250)
+[2025.03.30-18.04.52:011][130]LogModuleManager: Shutting down and abandoning module StringTableEditor (248)
+[2025.03.30-18.04.52:011][130]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (246)
+[2025.03.30-18.04.52:011][130]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (244)
+[2025.03.30-18.04.52:011][130]LogModuleManager: Shutting down and abandoning module FunctionalTesting (242)
+[2025.03.30-18.04.52:011][130]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (240)
+[2025.03.30-18.04.52:011][130]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (239)
+[2025.03.30-18.04.52:011][130]LogModuleManager: Shutting down and abandoning module UMG (236)
+[2025.03.30-18.04.52:011][130]LogModuleManager: Shutting down and abandoning module UMGEditor (235)
+[2025.03.30-18.04.52:011][130]LogModuleManager: Shutting down and abandoning module Sequencer (234)
+[2025.03.30-18.04.52:011][130]LogModuleManager: Shutting down and abandoning module SlateReflector (228)
+[2025.03.30-18.04.52:011][130]LogModuleManager: Shutting down and abandoning module Slate (226)
+[2025.03.30-18.04.52:011][130]LogModuleManager: Shutting down and abandoning module SlateCore (224)
+[2025.03.30-18.04.52:013][130]LogModuleManager: Shutting down and abandoning module SubobjectDataInterface (222)
+[2025.03.30-18.04.52:013][130]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (220)
+[2025.03.30-18.04.52:013][130]LogModuleManager: Shutting down and abandoning module UnrealEd (218)
+[2025.03.30-18.04.52:013][130]LogModuleManager: Shutting down and abandoning module MRMesh (216)
+[2025.03.30-18.04.52:013][130]LogModuleManager: Shutting down and abandoning module Messaging (214)
+[2025.03.30-18.04.52:013][130]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (212)
+[2025.03.30-18.04.52:013][130]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (210)
+[2025.03.30-18.04.52:013][130]LogModuleManager: Shutting down and abandoning module Networking (208)
+[2025.03.30-18.04.52:013][130]LogModuleManager: Shutting down and abandoning module Core (206)
+[2025.03.30-18.04.52:013][130]LogModuleManager: Shutting down and abandoning module MaterialEditor (204)
+[2025.03.30-18.04.52:013][130]LogModuleManager: Shutting down and abandoning module MovieSceneTools (202)
+[2025.03.30-18.04.52:013][130]LogModuleManager: Shutting down and abandoning module EditorStyle (201)
+[2025.03.30-18.04.52:013][130]LogModuleManager: Shutting down and abandoning module KismetCompiler (198)
+[2025.03.30-18.04.52:013][130]LogModuleManager: Shutting down and abandoning module MeshBuilder (196)
+[2025.03.30-18.04.52:013][130]LogModuleManager: Shutting down and abandoning module NaniteBuilder (194)
+[2025.03.30-18.04.52:013][130]LogModuleManager: Shutting down and abandoning module MeshUtilities (192)
+[2025.03.30-18.04.52:013][130]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (191)
+[2025.03.30-18.04.52:013][130]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (190)
+[2025.03.30-18.04.52:013][130]LogModuleManager: Shutting down and abandoning module MeshBoneReduction (189)
+[2025.03.30-18.04.52:013][130]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (187)
+[2025.03.30-18.04.52:013][130]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (185)
+[2025.03.30-18.04.52:013][130]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (183)
+[2025.03.30-18.04.52:013][130]LogModuleManager: Shutting down and abandoning module MaterialBaking (179)
+[2025.03.30-18.04.52:013][130]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (174)
+[2025.03.30-18.04.52:013][130]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (172)
+[2025.03.30-18.04.52:013][130]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (170)
+[2025.03.30-18.04.52:013][130]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (168)
+[2025.03.30-18.04.52:013][130]LogModuleManager: Shutting down and abandoning module DerivedDataCache (166)
+[2025.03.30-18.04.52:015][130]LogModuleManager: Shutting down and abandoning module TargetPlatform (164)
+[2025.03.30-18.04.52:015][130]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (163)
+[2025.03.30-18.04.52:015][130]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (161)
+[2025.03.30-18.04.52:015][130]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (159)
+[2025.03.30-18.04.52:015][130]LogModuleManager: Shutting down and abandoning module AudioFormatBink (157)
+[2025.03.30-18.04.52:016][130]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (155)
+[2025.03.30-18.04.52:016][130]LogModuleManager: Shutting down and abandoning module AudioFormatOGG (153)
+[2025.03.30-18.04.52:016][130]LogModuleManager: Shutting down and abandoning module AudioFormatOPUS (151)
+[2025.03.30-18.04.52:016][130]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (149)
+[2025.03.30-18.04.52:016][130]LogModuleManager: Shutting down and abandoning module TextureFormat (147)
+[2025.03.30-18.04.52:016][130]LogModuleManager: Shutting down and abandoning module TextureFormatOodle (146)
+[2025.03.30-18.04.52:016][130]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (144)
+[2025.03.30-18.04.52:016][130]LogModuleManager: Shutting down and abandoning module TextureFormatETC2 (142)
+[2025.03.30-18.04.52:016][130]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (140)
+[2025.03.30-18.04.52:016][130]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (138)
+[2025.03.30-18.04.52:016][130]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (136)
+[2025.03.30-18.04.52:016][130]LogModuleManager: Shutting down and abandoning module ImageWrapper (135)
+[2025.03.30-18.04.52:016][130]LogModuleManager: Shutting down and abandoning module TurnkeySupport (131)
+[2025.03.30-18.04.52:016][130]LogModuleManager: Shutting down and abandoning module InputCore (128)
+[2025.03.30-18.04.52:016][130]LogModuleManager: Shutting down and abandoning module Settings (126)
+[2025.03.30-18.04.52:016][130]LogModuleManager: Shutting down and abandoning module ChaosSolverEngine (124)
+[2025.03.30-18.04.52:016][130]LogModuleManager: Shutting down and abandoning module FieldSystemEngine (123)
+[2025.03.30-18.04.52:016][130]LogModuleManager: Shutting down and abandoning module Chaos (120)
+[2025.03.30-18.04.52:016][130]LogModuleManager: Shutting down and abandoning module GeometryCore (119)
+[2025.03.30-18.04.52:016][130]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (116)
+[2025.03.30-18.04.52:016][130]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (115)
+[2025.03.30-18.04.52:016][130]LogModuleManager: Shutting down and abandoning module AVEncoder (114)
+[2025.03.30-18.04.52:016][130]LogModuleManager: Shutting down and abandoning module D3D11RHI (110)
+[2025.03.30-18.04.52:016][130]LogModuleManager: Shutting down and abandoning module OnlineServicesCommon (108)
+[2025.03.30-18.04.52:016][130]LogModuleManager: Shutting down and abandoning module OnlineServicesInterface (106)
+[2025.03.30-18.04.52:016][130]LogModuleManager: Shutting down and abandoning module WindowsDeviceProfileSelector (104)
+[2025.03.30-18.04.52:016][130]LogModuleManager: Shutting down and abandoning module HairStrandsCore (102)
+[2025.03.30-18.04.52:016][130]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (100)
+[2025.03.30-18.04.52:016][130]LogModuleManager: Shutting down and abandoning module ChunkDownloader (98)
+[2025.03.30-18.04.52:016][130]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (96)
+[2025.03.30-18.04.52:016][130]LogModuleManager: Shutting down and abandoning module OnlineSubsystemUtils (94)
+[2025.03.30-18.04.52:016][130]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (92)
+[2025.03.30-18.04.52:016][130]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (90)
+[2025.03.30-18.04.52:017][130]LogModuleManager: Shutting down and abandoning module XMPP (85)
+[2025.03.30-18.04.52:017][130]LogModuleManager: Shutting down and abandoning module WebSockets (84)
+[2025.03.30-18.04.52:023][130]LogModuleManager: Shutting down and abandoning module HTTP (81)
+[2025.03.30-18.04.52:023][130]LogHttp: Warning: Cleaning up 0 outstanding Http requests.
+[2025.03.30-18.04.52:039][130]LogModuleManager: Shutting down and abandoning module SSL (80)
+[2025.03.30-18.04.52:040][130]LogModuleManager: Shutting down and abandoning module WmfMedia (76)
+[2025.03.30-18.04.52:042][130]LogModuleManager: Shutting down and abandoning module Media (75)
+[2025.03.30-18.04.52:043][130]LogModuleManager: Shutting down and abandoning module ExrReaderGpu (72)
+[2025.03.30-18.04.52:043][130]LogModuleManager: Shutting down and abandoning module NiagaraVertexFactories (70)
+[2025.03.30-18.04.52:043][130]LogModuleManager: Shutting down and abandoning module NiagaraShader (68)
+[2025.03.30-18.04.52:043][130]LogModuleManager: Shutting down and abandoning module ChaosCloth (66)
+[2025.03.30-18.04.52:043][130]LogModuleManager: Shutting down and abandoning module VariantManagerContent (64)
+[2025.03.30-18.04.52:043][130]LogModuleManager: Shutting down and abandoning module DatasmithContent (62)
+[2025.03.30-18.04.52:043][130]LogModuleManager: Shutting down and abandoning module PixWinPlugin (60)
+[2025.03.30-18.04.52:043][130]LogModuleManager: Shutting down and abandoning module AISupportModule (58)
+[2025.03.30-18.04.52:043][130]LogModuleManager: Shutting down and abandoning module DesktopPlatform (56)
+[2025.03.30-18.04.52:043][130]LogModuleManager: Shutting down and abandoning module PythonScriptPluginPreload (54)
+[2025.03.30-18.04.52:043][130]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (52)
+[2025.03.30-18.04.52:043][130]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (50)
+[2025.03.30-18.04.52:043][130]LogModuleManager: Shutting down and abandoning module PlatformCrypto (48)
+[2025.03.30-18.04.52:043][130]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (46)
+[2025.03.30-18.04.52:043][130]LogModuleManager: Shutting down and abandoning module SourceControl (45)
+[2025.03.30-18.04.52:043][130]LogModuleManager: Shutting down and abandoning module XGEController (42)
+[2025.03.30-18.04.52:043][130]LogModuleManager: Shutting down and abandoning module FastBuildController (40)
+[2025.03.30-18.04.52:044][130]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2025.03.30-18.04.52:044][130]LogModuleManager: Shutting down and abandoning module AudioEditor (36)
+[2025.03.30-18.04.52:044][130]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2025.03.30-18.04.52:044][130]LogModuleManager: Shutting down and abandoning module Virtualization (32)
+[2025.03.30-18.04.52:044][130]LogModuleManager: Shutting down and abandoning module MessageLog (31)
+[2025.03.30-18.04.52:044][130]LogModuleManager: Shutting down and abandoning module TextureCompressor (28)
+[2025.03.30-18.04.52:044][130]LogModuleManager: Shutting down and abandoning module RenderCore (26)
+[2025.03.30-18.04.52:044][130]LogModuleManager: Shutting down and abandoning module Landscape (24)
+[2025.03.30-18.04.52:044][130]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (22)
+[2025.03.30-18.04.52:045][130]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2025.03.30-18.04.52:045][130]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2025.03.30-18.04.52:045][130]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2025.03.30-18.04.52:045][130]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2025.03.30-18.04.52:045][130]LogModuleManager: Shutting down and abandoning module SandboxFile (12)
+[2025.03.30-18.04.52:045][130]LogModuleManager: Shutting down and abandoning module PakFile (10)
+[2025.03.30-18.04.52:045][130]LogModuleManager: Shutting down and abandoning module RSA (9)
+[2025.03.30-18.04.52:045][130]LogModuleManager: Shutting down and abandoning module NetworkFile (6)
+[2025.03.30-18.04.52:045][130]LogModuleManager: Shutting down and abandoning module StreamingFile (4)
+[2025.03.30-18.04.52:045][130]LogModuleManager: Shutting down and abandoning module StorageServerClient (2)
+[2025.03.30-18.04.52:069][130]LogD3D11RHI: Shutdown
+[2025.03.30-18.04.52:069][130]LogD3D11RHI: CleanupD3DDevice
+[2025.03.30-18.04.52:072][130]LogExit: Exiting.
+[2025.03.30-18.04.52:078][130]Log file closed, 03/30/25 21:04:52
