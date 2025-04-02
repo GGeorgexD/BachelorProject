@@ -2,7 +2,7 @@ Hello, my name is Cuntan George and this is the project that I made for my Bache
 
 This is a game I made in Unreal Engine, it does not have a name. :)
 
-Three character model were used:
+Three character model were used(taken from Mixamo):
 
 
 Paladin:
